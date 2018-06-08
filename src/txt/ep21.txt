@@ -1,0 +1,15 @@
+﻿[00:00] Event {Cracking is canceled}
+[00:18] Hacking to the Gate (first verse) {[Opening]}
+[03:04] Observer {Okabe and Mayuri at Comic Market}
+[04:28] Observer {Okabe wants to save Mayuri without changing world line}
+[05:19] Christina I {No news about cracking}
+[07:36] Back Home {Mayuri thanks Okabe for the day at Comic Market}
+[08:55] Select of Sorrow {Okabe tries to sacrifice himself to save Mayuri}
+[09:41] Confrontation {Mayuri dies again}
+[10:20] One of Selection -Gate of Steiner- {"You can't see any stars from here, right Mayuri?"}
+[11:09] Observer (from 0:36) {Kurisu tries to talk to Okabe}
+[12:58] Farewell (from 1:27, strings only) {Okabe tells Kurisu why he doesn't want to cancel the first D-Mail}
+[18:14] Promise {Mayuri recalls her first day at the lab}
+[21:47] Time Leap {Does Kurisu remember something?}
+[22:10] The Twelve Laws that Govern Time {[Ending]}
+[23:40] Promise -piano- {[Preview]}

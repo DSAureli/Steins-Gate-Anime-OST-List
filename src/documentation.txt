@@ -1,0 +1,41 @@
+################################
+#       documentation.txt      #
+#  Steins;Gate Full Anime OST  #
+#       Author : DSAureli      #
+################################
+
+
+There should be 3 scripts in this folder:
+
+- generateJSON.py
+- generatePDF.py
+- generateAll.py
+
+As the extension suggests, these are Python scripts. In order to use them you need to install the Python interpreter.
+The last version (3.x) should be fine. You can download it from here: https://www.python.org/downloads/
+After having installed Python you have to decompress the archive (all of it, not just the script files).
+Then, in order to run a script you need to either double-click it (if you don't want to pass a parameter) or:
+
+- Shift + right click in this folder and select "Open command window here"
+- type "python nameofscript.py parameter" and press Enter
+
+
+### generateJSON.py ###
+
+Merges all the text files contained in the "txt" folder in the JSON file "S;G_OST.json".
+The JSON is created in the same directory of the script. If you want to output it elsewhere you need to pass the path as a parameter.
+Make sure that the "txt" folder is in the same directory of the script, otherwise it won't work.
+
+
+### generatePDF.py ###
+
+Creates the PDF file "S;G_OST.pdf" from the JSON file, so make sure the latter is present in the directory.
+The PDF is created in the same directory of the script. If you want to output it elsewhere you need to pass the path as a parameter.
+If you choose to overwrite the existing PDF, but the script terminates with an error, you may have to close the PDF viewer.
+Make sure that the "fpdf" folder is in the same directory of the script, otherwise it won't work.
+
+
+### generateAll.py ###
+
+Executes "generateJSON.py" and "generatePDF.py", passing the parameter ".." to both.
+Two dots mean "parent directory" in pathing convention, so you will find the two generated files in the upper folder.
