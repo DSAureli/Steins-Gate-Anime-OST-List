@@ -1,9 +1,9 @@
-﻿[01:56] Hacking to the Gate (first verse) {[Opening]}
-[07:29] Suzuha {Suzuha apologizes for her behaviour towards Kurisu}
-[10:01] Lab-Members {Daru repairing the IBN, Kurisu wears the lab coat}
-[12:52] Teenager's Tango {"My name is Hououin!"}
-[14:36] @Channel {Daru repairs the IBN}
-[18:35] Silence Eyes {Jellyman's report}
-[21:41] Gate of Steiner -piano- {Okabe plans to create a real time machine}
+[01:56] Hacking to the Gate (first verse) {[Opening]}
+[07:29] Suzuha {Suzuha apologizes for her behavior towards Kurisu}
+[10:01] Lab-members {Daru is repairing the IBN 5100, Kurisu wears the lab coat}
+[12:52] Teenager's tango {"My name is Hououin!"}
+[14:36] @Channel {Daru repairs the IBN 5100}
+[18:35] Silence eyes {Jellyman's report}
+[21:41] Gate of steiner -piano- {Okabe plans to create a real time machine}
 [22:10] The Twelve Laws that Govern Time {[Ending]}
 [23:40] Adrenaline {[Preview]}

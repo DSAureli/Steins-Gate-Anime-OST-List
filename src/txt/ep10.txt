@@ -1,13 +1,13 @@
-﻿[00:00] Akihabara (remix, from 0:35) {The city has changed}
+[00:00] Akihabara (remix, from 0:35) {The city has changed}
 [00:52] Hacking to the Gate (first verse) {[Opening]}
-[03:38] Lab-Members {Mayuri suggests to spend a day at the beach}
-[04:50] Walking on Sleeping {Ruka is a girl}
+[03:38] Lab-members {Mayuri suggests spending a day at the beach}
+[04:50] Walking on sleeping {Ruka is a girl}
 [06:57] Suzuha {Suzuha is searching for her father}
-[08:35] Quiet Air (from 1:04) {Okabe wants to help Suzuha find her father}
-[10:42] Confrontation with Fear {"I'm watching you"}
-[12:19] Back Home {Okabe's illness flashback}
-[13:55] No Joke! {Kurisu's cooking}
+[08:35] Quiet air (from 1:04) {Okabe wants to help Suzuha find her father}
+[10:42] Confrontation with fear {"I'm watching you"}
+[12:19] Back Home {Flashback of Okabe's illness}
+[13:55] No joke! {Kurisu's cooking}
 [16:52] Promise -piano- {Kurisu feels at home in the lab}
-[19:27] Gate of Steiner -piano- {Suzuha has left}
+[19:27] Gate of steiner -piano- {Suzuha has left}
 [22:10] The Twelve Laws that Govern Time {[Ending]}
 [23:40] Disquiet {[Preview]}

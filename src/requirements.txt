@@ -1,0 +1,1 @@
+fpdf2 >= 2.2.0 ; python_version >= '3.9'

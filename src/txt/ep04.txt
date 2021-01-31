@@ -1,12 +1,12 @@
-﻿[00:00] Disquiet {"Human is Dead"}
+[00:00] Disquiet {"Human is Dead, mismatch."}
 [01:34] Hacking to the Gate (first verse) {[Opening]}
-[03:09] Lab-Members {Mayuri and Suzuha}
-[04:54] Promise -piano- {Mayuri's Stardust Handshake flashback}
+[03:09] Lab-members {Mayuri and Suzuha}
+[04:54] Promise -piano- {Mayuri's "Shaking Hands with Stardust"}
 [06:16] Adrenaline {They need an IBN 5100}
-[12:11] Event {Okabe tells Kurisu about the secrets of SERN}
-[13:21] Confrontation with Fear {Feyris knows something about the IBN}
-[13:36] ? {Feyris' cup BGM}
-[14:59] Operation G-BACK {Rai-Net match}
-[21:30] Science of the Strings {IBN 5100 transport}
+[12:11] Event {Okabe tells Kurisu about SERN's secret plot}
+[13:21] Confrontation with fear {Faris knows something about the IBN 5100}
+[13:36] ワタシ☆LOVEな☆オトメ! (from 0:10) {Faris Cup}
+[14:59] Operation G-BACK {Rai-Net Access Battlers match}
+[21:30] Science Of The Strings {Okabe and Kurisu carry the IBN 5100}
 [22:10] The Twelve Laws that Govern Time {[Ending]}
-[23:40] Science of the Strings {[Preview]}
+[23:40] Science Of The Strings {[Preview]}

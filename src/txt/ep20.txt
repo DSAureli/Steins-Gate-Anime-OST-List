@@ -1,14 +1,14 @@
-﻿[00:00] Confrontation {Moeka decides to help Okabe}
+[00:00] Confrontation {Moeka decides to help Okabe}
 [00:50] Hacking to the Gate (first verse) {[Opening]}
-[02:49] Christina I {Kurisu has a plan for retrieving the IBN}
+[02:49] Christina I {Kurisu has a plan for retrieving the IBN 5100}
 [05:14] Promise -piano- {Mayuri feels distant from Okabe}
 [07:16] Observer (from 2:14) {M4 is Moeka's code name}
-[08:04] Time Leap {Someone retrieves the IBN from the coin locker}
-[11:56] Okarin's Suspense {Okabe wants to question Mr. Braun}
-[13:18] Observer (from 2:14) {"Did you betray us, M4?"}
+[08:04] Timeleap {Someone retrieves the IBN 5100 from the coin locker}
+[11:56] Okarin's suspense {Okabe wants to question Mr. Braun}
+[13:18] Observer (from 2:14) {"Couldn't keep your trap shut--huh, M4?"}
 [15:33] Farewell {Mr. Braun tells his story}
 [18:34] Observer (from 2:14) {Moeka's last words}
-[20:08] Tubes {Daru hacks SERN database}
-[21:31] Gate of Steiner {Okabe realizes that...}
+[20:08] Tubes {Daru hacks SERN's database to delete the first D-Mail}
+[21:31] Gate of steiner {Okabe remembers the content of the first D-Mail}
 [22:10] The Twelve Laws that Govern Time {[Ending]}
 [23:40] Promise {[Preview]}

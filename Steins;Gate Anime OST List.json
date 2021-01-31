@@ -1,0 +1,4255 @@
+{
+	"per-episode": [
+		{
+			"episode": "01",
+			"tracks": [
+				{
+					"time": "07:33",
+					"track": "Confrontation with fear",
+					"comment": "",
+					"scene": "Okabe finds Kurisu's body"
+				},
+				{
+					"time": "10:33",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "14:46",
+					"track": "Silence eyes",
+					"comment": "",
+					"scene": "News about the satellite"
+				},
+				{
+					"time": "21:43",
+					"track": "Gate of steiner",
+					"comment": "",
+					"scene": "Okabe finds out he has sent an email to the past"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Akihabara",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "02",
+			"tracks": [
+				{
+					"time": "00:18",
+					"track": "Disquiet",
+					"comment": "",
+					"scene": "Kurisu is alive"
+				},
+				{
+					"time": "01:14",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "07:34",
+					"track": "Back Home",
+					"comment": "",
+					"scene": "Okabe and Mayuri walk back home"
+				},
+				{
+					"time": "10:45",
+					"track": "Experiment",
+					"comment": "",
+					"scene": "Okabe searches for information about the satellite"
+				},
+				{
+					"time": "11:26",
+					"track": "John Titor",
+					"comment": "",
+					"scene": "John Titor introduces himself"
+				},
+				{
+					"time": "13:21",
+					"track": "Okarin's suspense",
+					"comment": "",
+					"scene": "Okabe can't find any information about John Titor"
+				},
+				{
+					"time": "14:10",
+					"track": "Akihabara",
+					"comment": "",
+					"scene": "Titor never visited the year 2000"
+				},
+				{
+					"time": "21:31",
+					"track": "Event",
+					"comment": "",
+					"scene": "The banana is back in the bunch"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "D-Mail",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "03",
+			"tracks": [
+				{
+					"time": "01:37",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "03:35",
+					"track": "Tottery",
+					"comment": "",
+					"scene": "Kurisu tastes the gel-nana"
+				},
+				{
+					"time": "09:25",
+					"track": "Adrenaline",
+					"comment": "remix",
+					"scene": "\"This humble kitchen appliance is... a time machine!\""
+				},
+				{
+					"time": "11:47",
+					"track": "Experiment",
+					"comment": "",
+					"scene": "LHC"
+				},
+				{
+					"time": "16:20",
+					"track": "John Titor",
+					"comment": "",
+					"scene": "John Titor explains what the divergence is"
+				},
+				{
+					"time": "21:23",
+					"track": "Disquiet",
+					"comment": "",
+					"scene": "\"Human is Dead, mismatch.\""
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "No joke!",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "04",
+			"tracks": [
+				{
+					"time": "00:00",
+					"track": "Disquiet",
+					"comment": "",
+					"scene": "\"Human is Dead, mismatch.\""
+				},
+				{
+					"time": "01:34",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "03:09",
+					"track": "Lab-members",
+					"comment": "",
+					"scene": "Mayuri and Suzuha"
+				},
+				{
+					"time": "04:54",
+					"track": "Promise -piano-",
+					"comment": "",
+					"scene": "Mayuri's \"Shaking Hands with Stardust\""
+				},
+				{
+					"time": "06:16",
+					"track": "Adrenaline",
+					"comment": "",
+					"scene": "They need an IBN 5100"
+				},
+				{
+					"time": "12:11",
+					"track": "Event",
+					"comment": "",
+					"scene": "Okabe tells Kurisu about SERN's secret plot"
+				},
+				{
+					"time": "13:21",
+					"track": "Confrontation with fear",
+					"comment": "",
+					"scene": "Faris knows something about the IBN 5100"
+				},
+				{
+					"time": "13:36",
+					"track": "\u30ef\u30bf\u30b7\u2606LOVE\u306a\u2606\u30aa\u30c8\u30e1!",
+					"comment": "from 0:10",
+					"scene": "Faris Cup"
+				},
+				{
+					"time": "14:59",
+					"track": "Operation G-BACK",
+					"comment": "",
+					"scene": "Rai-Net Access Battlers match"
+				},
+				{
+					"time": "21:30",
+					"track": "Science Of The Strings",
+					"comment": "",
+					"scene": "Okabe and Kurisu carry the IBN 5100"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Science Of The Strings",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "05",
+			"tracks": [
+				{
+					"time": "01:56",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "07:29",
+					"track": "Suzuha",
+					"comment": "",
+					"scene": "Suzuha apologizes for her behavior towards Kurisu"
+				},
+				{
+					"time": "10:01",
+					"track": "Lab-members",
+					"comment": "",
+					"scene": "Daru is repairing the IBN 5100, Kurisu wears the lab coat"
+				},
+				{
+					"time": "12:52",
+					"track": "Teenager's tango",
+					"comment": "",
+					"scene": "\"My name is Hououin!\""
+				},
+				{
+					"time": "14:36",
+					"track": "@Channel",
+					"comment": "",
+					"scene": "Daru repairs the IBN 5100"
+				},
+				{
+					"time": "18:35",
+					"track": "Silence eyes",
+					"comment": "",
+					"scene": "Jellyman's report"
+				},
+				{
+					"time": "21:41",
+					"track": "Gate of steiner -piano-",
+					"comment": "",
+					"scene": "Okabe plans to create a real time machine"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Adrenaline",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "06",
+			"tracks": [
+				{
+					"time": "01:05",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "06:05",
+					"track": "Tottery",
+					"comment": "",
+					"scene": "They name the D-Mails"
+				},
+				{
+					"time": "08:16",
+					"track": "Science Of The Strings",
+					"comment": "",
+					"scene": "D-Mail/banana test"
+				},
+				{
+					"time": "11:17",
+					"track": "Event",
+					"comment": "",
+					"scene": "Okabe is starting to feel frightened"
+				},
+				{
+					"time": "14:57",
+					"track": "D-Mail",
+					"comment": "",
+					"scene": "Kurisu explains how D-Mails work"
+				},
+				{
+					"time": "16:24",
+					"track": "Gate of steiner -piano-",
+					"comment": "from 2:06",
+					"scene": "Okabe dreams of being sucked into a black hole"
+				},
+				{
+					"time": "19:16",
+					"track": "@Channel",
+					"comment": "",
+					"scene": "Moeka inspects the IBN 5100"
+				},
+				{
+					"time": "21:33",
+					"track": "Event",
+					"comment": "",
+					"scene": "\"Are you FB?\""
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Experiment",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "07",
+			"tracks": [
+				{
+					"time": "00:21",
+					"track": "Future Gadget Lab",
+					"comment": "",
+					"scene": "Okabe unhinges the microwave door"
+				},
+				{
+					"time": "01:56",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "05:11",
+					"track": "Tottery",
+					"comment": "",
+					"scene": "They discuss about the lottery D-Mail"
+				},
+				{
+					"time": "07:08",
+					"track": "Cold eyes",
+					"comment": "",
+					"scene": "Choosing the lottery prize"
+				},
+				{
+					"time": "07:33",
+					"track": "Lab-members",
+					"comment": "",
+					"scene": "Mayuri shows Moeka around the lab"
+				},
+				{
+					"time": "11:37",
+					"track": "Disquiet",
+					"comment": "",
+					"scene": "Ruka brings Okabe the lottery ticket"
+				},
+				{
+					"time": "12:30",
+					"track": "Silence eyes",
+					"comment": "",
+					"scene": "Okabe realizes he's the only one to remember the previous world lines"
+				},
+				{
+					"time": "15:02",
+					"track": "Experiment",
+					"comment": "",
+					"scene": "\"Why not try hitting up ol' John Titor for advice?\""
+				},
+				{
+					"time": "19:09",
+					"track": "Tender affection",
+					"comment": "from 1:22",
+					"scene": "Mayuri phones Okabe"
+				},
+				{
+					"time": "19:49",
+					"track": "John Titor",
+					"comment": "",
+					"scene": "Okabe and John Titor exchange emails"
+				},
+				{
+					"time": "21:24",
+					"track": "Gate of steiner -piano-",
+					"comment": "from 1:22",
+					"scene": "\"Kyouma, I ask you to be our savior\""
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Future Gadget Lab",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "08",
+			"tracks": [
+				{
+					"time": "00:00",
+					"track": "Gate of steiner -piano-",
+					"comment": "",
+					"scene": "Okabe goes completely mad"
+				},
+				{
+					"time": "00:39",
+					"track": "Experiment",
+					"comment": "",
+					"scene": "Okabe tells Daru and Kurisu that the D-Mail was successful"
+				},
+				{
+					"time": "01:45",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "08:46",
+					"track": "Lab-members",
+					"comment": "",
+					"scene": "Ruka brings a watermelon"
+				},
+				{
+					"time": "10:37",
+					"track": "Disquiet",
+					"comment": "",
+					"scene": "Moeka has disappeared"
+				},
+				{
+					"time": "13:32",
+					"track": "Teenager's tango",
+					"comment": "",
+					"scene": "Ruka's cosplay"
+				},
+				{
+					"time": "14:31",
+					"track": "Akihabara",
+					"comment": "vocals only, from 0:23",
+					"scene": "Okabe is charmed by a cosplaying Ruka"
+				},
+				{
+					"time": "14:52",
+					"track": "Akihabara",
+					"comment": "vocals only, from 0:23",
+					"scene": "Kurisu is charmed by a cosplaying Ruka"
+				},
+				{
+					"time": "15:44",
+					"track": "Experiment",
+					"comment": "lead only, from 1:04",
+					"scene": "Ruka knows the existence of the D-Mails"
+				},
+				{
+					"time": "16:23",
+					"track": "Experiment",
+					"comment": "",
+					"scene": "Ruka wants to send a D-Mail"
+				},
+				{
+					"time": "18:11",
+					"track": "Science Of The Strings",
+					"comment": "",
+					"scene": "Okabe suggests sending the D-Mail to a pager"
+				},
+				{
+					"time": "21:03",
+					"track": "Event",
+					"comment": "remix",
+					"scene": "Is Ruka a girl now?"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "@Channel",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "09",
+			"tracks": [
+				{
+					"time": "00:59",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "05:12",
+					"track": "Lab-members",
+					"comment": "",
+					"scene": "Mayuri in school uniform"
+				},
+				{
+					"time": "06:32",
+					"track": "D-Mail",
+					"comment": "",
+					"scene": "Discussion about physical time travel"
+				},
+				{
+					"time": "08:20",
+					"track": "Silence eyes",
+					"comment": "",
+					"scene": "The IBN 5100 has disappeared"
+				},
+				{
+					"time": "09:27",
+					"track": "Experiment",
+					"comment": "remix, from 1:04",
+					"scene": "Kurisu explains the \"butterfly effect\""
+				},
+				{
+					"time": "12:44",
+					"track": "Confrontation with fear",
+					"comment": "",
+					"scene": "Okabe sees Moeka in the streets"
+				},
+				{
+					"time": "14:24",
+					"track": "Event",
+					"comment": "",
+					"scene": "How does Mayuri know Moeka?"
+				},
+				{
+					"time": "18:50",
+					"track": "Tottery",
+					"comment": "",
+					"scene": "Kurisu hangs up on Okabe"
+				},
+				{
+					"time": "20:12",
+					"track": "Disquiet",
+					"comment": "",
+					"scene": "Faris is hesitant to send the D-Mail"
+				},
+				{
+					"time": "20:39",
+					"track": "Event",
+					"comment": "",
+					"scene": "Okabe meets Faris's father"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "The city has changed [Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "John Titor",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "10",
+			"tracks": [
+				{
+					"time": "00:00",
+					"track": "Akihabara",
+					"comment": "remix, from 0:35",
+					"scene": "The city has changed"
+				},
+				{
+					"time": "00:52",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "03:38",
+					"track": "Lab-members",
+					"comment": "",
+					"scene": "Mayuri suggests spending a day at the beach"
+				},
+				{
+					"time": "04:50",
+					"track": "Walking on sleeping",
+					"comment": "",
+					"scene": "Ruka is a girl"
+				},
+				{
+					"time": "06:57",
+					"track": "Suzuha",
+					"comment": "",
+					"scene": "Suzuha is searching for her father"
+				},
+				{
+					"time": "08:35",
+					"track": "Quiet air",
+					"comment": "from 1:04",
+					"scene": "Okabe wants to help Suzuha find her father"
+				},
+				{
+					"time": "10:42",
+					"track": "Confrontation with fear",
+					"comment": "",
+					"scene": "\"I'm watching you\""
+				},
+				{
+					"time": "12:19",
+					"track": "Back Home",
+					"comment": "",
+					"scene": "Flashback of Okabe's illness"
+				},
+				{
+					"time": "13:55",
+					"track": "No joke!",
+					"comment": "",
+					"scene": "Kurisu's cooking"
+				},
+				{
+					"time": "16:52",
+					"track": "Promise -piano-",
+					"comment": "",
+					"scene": "Kurisu feels at home in the lab"
+				},
+				{
+					"time": "19:27",
+					"track": "Gate of steiner -piano-",
+					"comment": "",
+					"scene": "Suzuha has left"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Disquiet",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "11",
+			"tracks": [
+				{
+					"time": "00:25",
+					"track": "Run away!",
+					"comment": "",
+					"scene": "Suzuha tries to distract Mr. Braun"
+				},
+				{
+					"time": "01:21",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "04:17",
+					"track": "D-Mail",
+					"comment": "",
+					"scene": "Kurisu thinks about the time leap"
+				},
+				{
+					"time": "05:46",
+					"track": "Akihabara",
+					"comment": "remix",
+					"scene": "Mayuri is concerned about the time leap"
+				},
+				{
+					"time": "07:40",
+					"track": "Experiment",
+					"comment": "",
+					"scene": "Okabe and Mayuri meet Moeka"
+				},
+				{
+					"time": "10:11",
+					"track": "Disquiet",
+					"comment": "",
+					"scene": "\"Kurisu works for SERN\""
+				},
+				{
+					"time": "11:59",
+					"track": "Explanation",
+					"comment": "",
+					"scene": "Kurisu is hesitant about testing the time leap"
+				},
+				{
+					"time": "12:50",
+					"track": "Believe Me",
+					"comment": "",
+					"scene": "Kurisu tells Okabe about her relationship with her father"
+				},
+				{
+					"time": "15:26",
+					"track": "Tender affection",
+					"comment": "from 0:15",
+					"scene": "Okabe wants to help Kurisu reconcile with her father"
+				},
+				{
+					"time": "19:07",
+					"track": "Event",
+					"comment": "",
+					"scene": "\"You know too much\""
+				},
+				{
+					"time": "21:25",
+					"track": "Confrontation with fear",
+					"comment": "",
+					"scene": "The lab PC is connected to SERN"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Event",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "12",
+			"tracks": [
+				{
+					"time": "01:47",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "04:08",
+					"track": "Explanation",
+					"comment": "",
+					"scene": "The Time Leap Machine is ready"
+				},
+				{
+					"time": "09:06",
+					"track": "Tender affection",
+					"comment": "",
+					"scene": "Okabe and Kurisu awkward scene"
+				},
+				{
+					"time": "11:44",
+					"track": "Adrenaline",
+					"comment": "",
+					"scene": "Suzuha vs Kurisu"
+				},
+				{
+					"time": "13:37",
+					"track": "Labordinary",
+					"comment": "",
+					"scene": "Suzuha plays Rai-Net"
+				},
+				{
+					"time": "17:22",
+					"track": "Promise -piano-",
+					"comment": "",
+					"scene": "Okabe and Mayuri talk on the roof"
+				},
+				{
+					"time": "18:47",
+					"track": "Event",
+					"comment": "",
+					"scene": "Time has stopped"
+				},
+				{
+					"time": "19:48",
+					"track": "Confrontation",
+					"comment": "",
+					"scene": "The Rounders burst into the lab"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Suzuha",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "13",
+			"tracks": [
+				{
+					"time": "00:00",
+					"track": "Confrontation",
+					"comment": "",
+					"scene": "\"The little one isn't needed\""
+				},
+				{
+					"time": "01:47",
+					"track": "?",
+					"comment": "",
+					"scene": "Suzuha knocks the Rounders out"
+				},
+				{
+					"time": "02:25",
+					"track": "Butterfly effect",
+					"comment": "",
+					"scene": "Okabe leaps back in time"
+				},
+				{
+					"time": "02:57",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "05:26",
+					"track": "Promise",
+					"comment": "",
+					"scene": "Flashback of Mayuri and Okabe in the graveyard"
+				},
+				{
+					"time": "06:37",
+					"track": "August 13 -Explanation-",
+					"comment": "slowed down",
+					"scene": "The time leap succeeded"
+				},
+				{
+					"time": "08:20",
+					"track": "Experiment",
+					"comment": "",
+					"scene": "Okabe is searching for Mayuri"
+				},
+				{
+					"time": "11:48",
+					"track": "Believe Me",
+					"comment": "",
+					"scene": "Mayuri is sad"
+				},
+				{
+					"time": "13:08",
+					"track": "Confrontation",
+					"comment": "",
+					"scene": "Rounders, again"
+				},
+				{
+					"time": "13:54",
+					"track": "Gate of steiner",
+					"comment": "",
+					"scene": "Mayuri dies, again"
+				},
+				{
+					"time": "14:36",
+					"track": "August 13 -Explanation-",
+					"comment": "slowed down",
+					"scene": "Okabe leaps back in time, again"
+				},
+				{
+					"time": "16:10",
+					"track": "Akihabara",
+					"comment": "remix",
+					"scene": "Okabe meets Mayuri at the temple"
+				},
+				{
+					"time": "18:24",
+					"track": "Disquiet",
+					"comment": "",
+					"scene": "Okabe tries to escape with Mayuri"
+				},
+				{
+					"time": "20:36",
+					"track": "Confrontation",
+					"comment": "remix, from 1:10",
+					"scene": "Nae stumbles into Mayuri"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Silence eyes",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "14",
+			"tracks": [
+				{
+					"time": "00:00",
+					"track": "Butterfly effect",
+					"comment": "remix, from 1:12",
+					"scene": "Okabe tried to save Mayuri many times"
+				},
+				{
+					"time": "00:12",
+					"track": "Back Home",
+					"comment": "distorted remix, played together with Butterfly effect",
+					"scene": "Okabe tried to save Mayuri many times"
+				},
+				{
+					"time": "01:15",
+					"track": "Butterfly effect",
+					"comment": "",
+					"scene": "Moeka shoots Mayuri to death... again"
+				},
+				{
+					"time": "02:18",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "03:48",
+					"track": "August 13 -Explanation-",
+					"comment": "remix, slowed down",
+					"scene": "Okabe kicks Kurisu and Daru out of the lab"
+				},
+				{
+					"time": "04:52",
+					"track": "Confrontation",
+					"comment": "",
+					"scene": "Okabe interrogates Moeka about the Rounders"
+				},
+				{
+					"time": "08:35",
+					"track": "Butterfly effect",
+					"comment": "remix, from 1:12",
+					"scene": "Okabe sees Mayuri shot to death"
+				},
+				{
+					"time": "08:52",
+					"track": "August 13 -Explanation-",
+					"comment": "remix, slowed down",
+					"scene": "Okabe can't take it anymore"
+				},
+				{
+					"time": "12:05",
+					"track": "Christina I",
+					"comment": "",
+					"scene": "Kurisu cheers Okabe up"
+				},
+				{
+					"time": "12:52",
+					"track": "Hack -short vision-",
+					"comment": "",
+					"scene": "Kurisu makes a plan"
+				},
+				{
+					"time": "14:18",
+					"track": "August 13 -Explanation-",
+					"comment": "remix, slowed down",
+					"scene": "Putting the plan into action"
+				},
+				{
+					"time": "17:04",
+					"track": "D-Mail",
+					"comment": "remix",
+					"scene": "Making another plan"
+				},
+				{
+					"time": "18:55",
+					"track": "Tubes",
+					"comment": "",
+					"scene": "Suzuha's explanation about world lines"
+				},
+				{
+					"time": "21:52",
+					"track": "Self affirmation",
+					"comment": "from 2:36",
+					"scene": "Suzuha is John Titor"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Okarin's suspense",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "15",
+			"tracks": [
+				{
+					"time": "00:00",
+					"track": "Self affirmation",
+					"comment": "from 2:36",
+					"scene": "Suzuha is John Titor"
+				},
+				{
+					"time": "00:16",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "01:51",
+					"track": "Menace",
+					"comment": "remix",
+					"scene": "SERN's dystopia flash...forward"
+				},
+				{
+					"time": "03:54",
+					"track": "Tubes",
+					"comment": "",
+					"scene": "Suzuha tells Okabe and Kurisu their future"
+				},
+				{
+					"time": "06:54",
+					"track": "Adrenaline",
+					"comment": "remix",
+					"scene": "Chased by cops"
+				},
+				{
+					"time": "08:01",
+					"track": "Disquiet",
+					"comment": "",
+					"scene": "Okabe apologizes for having stopped Suzuha from leaving"
+				},
+				{
+					"time": "10:18",
+					"track": "August 13 -Explanation-",
+					"comment": "remix",
+					"scene": "Double time leap"
+				},
+				{
+					"time": "13:04",
+					"track": "Suzuha",
+					"comment": "",
+					"scene": "Suzuha talks to Daru about her father"
+				},
+				{
+					"time": "15:00",
+					"track": "Tubes",
+					"comment": "",
+					"scene": "Suzuha gives Okabe the divergence meter"
+				},
+				{
+					"time": "16:07",
+					"track": "Tottery",
+					"comment": "",
+					"scene": "Okabe and Suzuha search for information about the pin badge"
+				},
+				{
+					"time": "18:09",
+					"track": "Labordinary",
+					"comment": "",
+					"scene": "Mayuri is handing out flyers"
+				},
+				{
+					"time": "20:39",
+					"track": "Farewell",
+					"comment": "",
+					"scene": "Suzuha thanks Okabe"
+				},
+				{
+					"time": "22:00",
+					"track": "Farewell",
+					"comment": "reprise",
+					"scene": "The street vendor found Suzuha's father?"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Experiment",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "16",
+			"tracks": [
+				{
+					"time": "00:00",
+					"track": "Okarin's suspense",
+					"comment": "",
+					"scene": "\"He looked just like a barrel\""
+				},
+				{
+					"time": "01:24",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "03:02",
+					"track": "August 13 -Explanation-",
+					"comment": "remix, slowed down",
+					"scene": "Okabe finds out who ordered the pins"
+				},
+				{
+					"time": "05:03",
+					"track": "Suzuha",
+					"comment": "",
+					"scene": "Suzuha thanks Okabe again"
+				},
+				{
+					"time": "06:05",
+					"track": "Gate of steiner -piano-",
+					"comment": "from 2:32",
+					"scene": "Okabe swears to Suzuha he will change the future"
+				},
+				{
+					"time": "07:29",
+					"track": "Tender affection",
+					"comment": "",
+					"scene": "Suzuha is about to leave"
+				},
+				{
+					"time": "09:50",
+					"track": "Farewell",
+					"comment": "",
+					"scene": "Mayuri finds Suzuha's father, Suzuha leaves"
+				},
+				{
+					"time": "14:26",
+					"track": "Farewell",
+					"comment": "strings only",
+					"scene": "Suzuha's letter"
+				},
+				{
+					"time": "17:32",
+					"track": "Believe Me",
+					"comment": "",
+					"scene": "Mr. Braun tells them about Suzuha's death"
+				},
+				{
+					"time": "19:35",
+					"track": "Farewell",
+					"comment": "piano only",
+					"scene": "Mr. Braun talks about Suzuha in the new world line"
+				},
+				{
+					"time": "21:15",
+					"track": "Butterfly effect",
+					"comment": "",
+					"scene": "Yamanote line is open"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Back Home",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "17",
+			"tracks": [
+				{
+					"time": "00:00",
+					"track": "Gate of steiner -piano-",
+					"comment": "",
+					"scene": "\"Yesterday nothing happened...\""
+				},
+				{
+					"time": "00:46",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "02:17",
+					"track": "Butterfly effect",
+					"comment": "remix",
+					"scene": "Okabe asks Kurisu for help"
+				},
+				{
+					"time": "03:55",
+					"track": "Christina I",
+					"comment": "",
+					"scene": "Okabe thanks Kurisu"
+				},
+				{
+					"time": "05:23",
+					"track": "Network battle",
+					"comment": "bgm, from 1:00",
+					"scene": "Okabe phones Daru and asks him where Faris is"
+				},
+				{
+					"time": "05:46",
+					"track": "Network battle",
+					"comment": "from 1:23",
+					"scene": "Okabe goes to the UPX building to meet Faris"
+				},
+				{
+					"time": "05:56",
+					"track": "Crossroads",
+					"comment": "",
+					"scene": "Okabe and Faris being chased"
+				},
+				{
+					"time": "07:32",
+					"track": "Crossroads",
+					"comment": "reprise",
+					"scene": "Okabe and Faris being chased again"
+				},
+				{
+					"time": "13:23",
+					"track": "Farewell",
+					"comment": "",
+					"scene": "Faris's father tells Okabe about her kidnapping"
+				},
+				{
+					"time": "17:45",
+					"track": "?",
+					"comment": "unreleased version of One of selection -Gate of steiner-",
+					"scene": "Faris agrees to undo her D-Mail"
+				},
+				{
+					"time": "20:43",
+					"track": "Observer",
+					"comment": "",
+					"scene": "Faris's D-Mail is undone"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Tender affection",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "18",
+			"tracks": [
+				{
+					"time": "00:33",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "02:14",
+					"track": "Labordinary",
+					"comment": "",
+					"scene": "Okabe made Ruka cry again"
+				},
+				{
+					"time": "04:41",
+					"track": "Quiet air",
+					"comment": "",
+					"scene": "Ruka crying"
+				},
+				{
+					"time": "05:24",
+					"track": "Warmth of days -Promise-",
+					"comment": "",
+					"scene": "Ruka wants to go on a date with Okabe"
+				},
+				{
+					"time": "07:45",
+					"track": "Tottery",
+					"comment": "",
+					"scene": "Tsundere Kurisu"
+				},
+				{
+					"time": "09:40",
+					"track": "Noisy times",
+					"comment": "",
+					"scene": "Kurisu tries to help Okabe with the date"
+				},
+				{
+					"time": "15:27",
+					"track": "Promise -piano-",
+					"comment": "",
+					"scene": "Flashback of Okabe and Ruka's first meeting"
+				},
+				{
+					"time": "17:06",
+					"track": "Farewell",
+					"comment": "piano only",
+					"scene": "They are about to undo Ruka's D-Mail"
+				},
+				{
+					"time": "19:35",
+					"track": "One of selection -Gate of steiner-",
+					"comment": "version in 'GATE OF STEINER 10th Anniversary'",
+					"scene": "Ruka confesses her feelings to Okabe"
+				},
+				{
+					"time": "21:31",
+					"track": "Observer",
+					"comment": "",
+					"scene": "Ruka is back to being a boy"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Confrontation with fear",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "19",
+			"tracks": [
+				{
+					"time": "00:32",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "02:55",
+					"track": "Butterfly effect",
+					"comment": "",
+					"scene": "Okabe explains the situation to Kurisu"
+				},
+				{
+					"time": "06:03",
+					"track": "Timeleap",
+					"comment": "",
+					"scene": "Moeka killed herself"
+				},
+				{
+					"time": "08:20",
+					"track": "Dependency",
+					"comment": "remix, without bass",
+					"scene": "Moeka is having a mental breakdown"
+				},
+				{
+					"time": "10:17",
+					"track": "Menace",
+					"comment": "",
+					"scene": "\"Give it back!\""
+				},
+				{
+					"time": "11:19",
+					"track": "Disquiet",
+					"comment": "",
+					"scene": "Reading Steiner doesn't kick in"
+				},
+				{
+					"time": "12:34",
+					"track": "Menace",
+					"comment": "",
+					"scene": "Moeka tries to break down the door"
+				},
+				{
+					"time": "14:13",
+					"track": "Dependency",
+					"comment": "from 1:03",
+					"scene": "Moeka can't betray FB"
+				},
+				{
+					"time": "15:52",
+					"track": "Silence eyes",
+					"comment": "",
+					"scene": "FB recruited Moeka"
+				},
+				{
+					"time": "20:15",
+					"track": "Confrontation",
+					"comment": "",
+					"scene": "Okabe is not able to undo Moeka's D-Mail"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Silence eyes",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "20",
+			"tracks": [
+				{
+					"time": "00:00",
+					"track": "Confrontation",
+					"comment": "",
+					"scene": "Moeka decides to help Okabe"
+				},
+				{
+					"time": "00:50",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "02:49",
+					"track": "Christina I",
+					"comment": "",
+					"scene": "Kurisu has a plan for retrieving the IBN 5100"
+				},
+				{
+					"time": "05:14",
+					"track": "Promise -piano-",
+					"comment": "",
+					"scene": "Mayuri feels distant from Okabe"
+				},
+				{
+					"time": "07:16",
+					"track": "Observer",
+					"comment": "from 2:14",
+					"scene": "M4 is Moeka's code name"
+				},
+				{
+					"time": "08:04",
+					"track": "Timeleap",
+					"comment": "",
+					"scene": "Someone retrieves the IBN 5100 from the coin locker"
+				},
+				{
+					"time": "11:56",
+					"track": "Okarin's suspense",
+					"comment": "",
+					"scene": "Okabe wants to question Mr. Braun"
+				},
+				{
+					"time": "13:18",
+					"track": "Observer",
+					"comment": "from 2:14",
+					"scene": "\"Couldn't keep your trap shut--huh, M4?\""
+				},
+				{
+					"time": "15:33",
+					"track": "Farewell",
+					"comment": "",
+					"scene": "Mr. Braun tells his story"
+				},
+				{
+					"time": "18:34",
+					"track": "Observer",
+					"comment": "from 2:14",
+					"scene": "Moeka's last words"
+				},
+				{
+					"time": "20:08",
+					"track": "Tubes",
+					"comment": "",
+					"scene": "Daru hacks SERN's database to delete the first D-Mail"
+				},
+				{
+					"time": "21:31",
+					"track": "Gate of steiner",
+					"comment": "",
+					"scene": "Okabe remembers the content of the first D-Mail"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Promise",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "21",
+			"tracks": [
+				{
+					"time": "00:00",
+					"track": "Event",
+					"comment": "",
+					"scene": "The hacking is canceled"
+				},
+				{
+					"time": "00:18",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "03:04",
+					"track": "Observer",
+					"comment": "",
+					"scene": "Okabe and Mayuri at the Comic Market"
+				},
+				{
+					"time": "04:28",
+					"track": "Observer",
+					"comment": "",
+					"scene": "Okabe wants to save Mayuri without changing world line"
+				},
+				{
+					"time": "05:19",
+					"track": "Christina I",
+					"comment": "",
+					"scene": "Kurisu wants to help Okabe save Mayuri"
+				},
+				{
+					"time": "07:36",
+					"track": "Back Home",
+					"comment": "",
+					"scene": "Mayuri thanks Okabe for the day at Comic Market"
+				},
+				{
+					"time": "08:55",
+					"track": "Select of sorrow",
+					"comment": "",
+					"scene": "Okabe tries to sacrifice himself to save Mayuri"
+				},
+				{
+					"time": "09:41",
+					"track": "Confrontation",
+					"comment": "",
+					"scene": "Mayuri dies again"
+				},
+				{
+					"time": "10:20",
+					"track": "One of selection -Gate of steiner-",
+					"comment": "version in 'STEINS;GATE Future Gadget Compact Disc 8 Soundtrack II \"Event Horizon\"'",
+					"scene": "\"You can't see any stars from here, right Mayuri?\""
+				},
+				{
+					"time": "11:09",
+					"track": "Observer",
+					"comment": "from 0:36",
+					"scene": "Kurisu wants to talk to Okabe"
+				},
+				{
+					"time": "12:58",
+					"track": "Farewell",
+					"comment": "from 1:27, strings only",
+					"scene": "Okabe reveals what happens if they undo the first D-Mail"
+				},
+				{
+					"time": "18:14",
+					"track": "Promise",
+					"comment": "",
+					"scene": "Mayuri recalls her first day at the lab"
+				},
+				{
+					"time": "21:47",
+					"track": "Timeleap",
+					"comment": "",
+					"scene": "Does Kurisu remember something?"
+				},
+				{
+					"time": "22:10",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Promise -piano-",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "22",
+			"tracks": [
+				{
+					"time": "00:12",
+					"track": "Hacking to the Gate",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "03:46",
+					"track": "Tender affection",
+					"comment": "from 0:15",
+					"scene": "Kurisu mends Okabe's lab coat"
+				},
+				{
+					"time": "05:18",
+					"track": "Timeleap",
+					"comment": "",
+					"scene": "Kurisu has a glimpse of Reading Steiner"
+				},
+				{
+					"time": "07:02",
+					"track": "Christina I",
+					"comment": "from 1:09",
+					"scene": "Kurisu accepts her fate"
+				},
+				{
+					"time": "08:53",
+					"track": "Believe Me",
+					"comment": "",
+					"scene": "\"...then your heart is already broken\""
+				},
+				{
+					"time": "10:51",
+					"track": "Christina II",
+					"comment": "without strings",
+					"scene": "Okabe hugs Kurisu"
+				},
+				{
+					"time": "11:59",
+					"track": "Christina II",
+					"comment": "without glockenspiel, from 0:17",
+					"scene": "\"So long as you remember me... I'll still be right there... with you\""
+				},
+				{
+					"time": "12:51",
+					"track": "Christina II",
+					"comment": "from 0:17, a bit different in structure",
+					"scene": "Okabe and Kurisu kiss"
+				},
+				{
+					"time": "15:26",
+					"track": "Christina II",
+					"comment": "from 1:44",
+					"scene": "They kiss again"
+				},
+				{
+					"time": "17:19",
+					"track": "Promise",
+					"comment": "",
+					"scene": "\"Sayonara\""
+				},
+				{
+					"time": "19:50",
+					"track": "Farewell",
+					"comment": "from 1:27, without piano",
+					"scene": "The first D-Mail is deleted"
+				},
+				{
+					"time": "21:45",
+					"track": "Fake Verthandi",
+					"comment": "intro",
+					"scene": "\"This is for the best... isn't it... Kurisu?\""
+				},
+				{
+					"time": "22:12",
+					"track": "Gate of steiner",
+					"comment": "without drums, from 0:26",
+					"scene": "[Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Believe Me",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "23",
+			"tracks": [
+				{
+					"time": "00:00",
+					"track": "Experiment",
+					"comment": "",
+					"scene": "\"Seriously... World War III?\""
+				},
+				{
+					"time": "01:46",
+					"track": "Hacking to the Gate",
+					"comment": "second verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "03:16",
+					"track": "Suspicious eyes",
+					"comment": "",
+					"scene": "Suzuha tells Okabe about the Steins Gate"
+				},
+				{
+					"time": "06:52",
+					"track": "Tubes",
+					"comment": "",
+					"scene": "Okabe travels to the past"
+				},
+				{
+					"time": "09:59",
+					"track": "Timeleap",
+					"comment": "",
+					"scene": "Kurisu meets with her father"
+				},
+				{
+					"time": "11:48",
+					"track": "Dependency",
+					"comment": "from 0:17",
+					"scene": "Okabe fights Kurisu's father"
+				},
+				{
+					"time": "13:04",
+					"track": "Timeleap",
+					"comment": "",
+					"scene": "Kurisu dies"
+				},
+				{
+					"time": "15:53",
+					"track": "Observer",
+					"comment": "",
+					"scene": "Okabe is about to give up saving Kurisu"
+				},
+				{
+					"time": "16:40",
+					"track": "Observer",
+					"comment": "from 2:14",
+					"scene": "Mayuri slaps Okabe"
+				},
+				{
+					"time": "17:50",
+					"track": "OPERATION SKULD",
+					"comment": "",
+					"scene": "Okabe watches a video from the future"
+				},
+				{
+					"time": "20:45",
+					"track": "Sky-Clad Observer",
+					"comment": "",
+					"scene": "\"Heave anchor! This ship of fools is about to embark!\" [Ending]"
+				},
+				{
+					"time": "23:40",
+					"track": "Gate of steiner",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "23b",
+			"tracks": [
+				{
+					"time": "00:00",
+					"track": "Experiment",
+					"comment": "",
+					"scene": "\"World War III?\""
+				},
+				{
+					"time": "01:46",
+					"track": "Hacking to the Gate",
+					"comment": "second verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "03:16",
+					"track": "Suspicious eyes",
+					"comment": "",
+					"scene": "Suzuha tells Okabe about the Steins Gate"
+				},
+				{
+					"time": "06:52",
+					"track": "Tubes",
+					"comment": "",
+					"scene": "Okabe travels to the past"
+				},
+				{
+					"time": "09:59",
+					"track": "Timeleap",
+					"comment": "",
+					"scene": "Kurisu meets with her father"
+				},
+				{
+					"time": "11:48",
+					"track": "Dependency",
+					"comment": "from 0:17",
+					"scene": "Okabe fights Kurisu's father"
+				},
+				{
+					"time": "13:04",
+					"track": "Timeleap",
+					"comment": "",
+					"scene": "Kurisu dies"
+				},
+				{
+					"time": "14:35",
+					"track": "Event",
+					"comment": "",
+					"scene": "Okabe is about to give up saving Kurisu"
+				},
+				{
+					"time": "19:47",
+					"track": "Back Home",
+					"comment": "",
+					"scene": "Okabe gets a phone call"
+				},
+				{
+					"time": "21:17",
+					"track": "The Twelve Laws that Govern Time",
+					"comment": "",
+					"scene": "Nothing has changed [Ending]"
+				}
+			]
+		},
+		{
+			"episode": "24",
+			"tracks": [
+				{
+					"time": "00:01",
+					"track": "OPERATION SKULD",
+					"comment": "",
+					"scene": "A video from the future"
+				},
+				{
+					"time": "01:42",
+					"track": "Hacking to the Gate",
+					"comment": "second verse",
+					"scene": "[Opening]"
+				},
+				{
+					"time": "04:48",
+					"track": "Observer",
+					"comment": "from 2:14",
+					"scene": "Mayuri remembers Kurisu"
+				},
+				{
+					"time": "07:03",
+					"track": "Last Mission",
+					"comment": "",
+					"scene": "The last mission begins"
+				},
+				{
+					"time": "10:19",
+					"track": "Last Mission",
+					"comment": "reprise",
+					"scene": "The fake blood dried up"
+				},
+				{
+					"time": "11:59",
+					"track": "Adrenaline",
+					"comment": "",
+					"scene": "Okabe provokes Kurisu's father"
+				},
+				{
+					"time": "12:50",
+					"track": "Dependency",
+					"comment": "",
+					"scene": "Okabe tases Kurisu"
+				},
+				{
+					"time": "15:16",
+					"track": "Gate of steiner -piano-",
+					"comment": "",
+					"scene": "Kurisu is finally safe"
+				},
+				{
+					"time": "17:46",
+					"track": "Another Heaven",
+					"comment": "",
+					"scene": "Steins Gate world line"
+				},
+				{
+					"time": "22:09",
+					"track": "Farewell",
+					"comment": "piano only, from 1:02",
+					"scene": "Okabe and Kurisu meet again"
+				},
+				{
+					"time": "22:34",
+					"track": "Farewell",
+					"comment": "piano only, from 1:27",
+					"scene": "\"So we meet again, Christina\""
+				},
+				{
+					"time": "22:58",
+					"track": "Farewell",
+					"comment": "from 1:51",
+					"scene": "\"This is the choice of Steins Gate\""
+				},
+				{
+					"time": "23:40",
+					"track": "Tottery",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"episode": "25",
+			"tracks": [
+				{
+					"time": "01:04",
+					"track": "Lab-members",
+					"comment": "",
+					"scene": "They're going to America!"
+				},
+				{
+					"time": "03:01",
+					"track": "Cold eyes",
+					"comment": "",
+					"scene": "Okabe at customs"
+				},
+				{
+					"time": "03:52",
+					"track": "My alley",
+					"comment": "",
+					"scene": "Okabe and Kurisu meet again"
+				},
+				{
+					"time": "05:14",
+					"track": "No joke!",
+					"comment": "",
+					"scene": "Okabe's and Faris's chuunibyou"
+				},
+				{
+					"time": "07:42",
+					"track": "Boy",
+					"comment": "",
+					"scene": "Okabe tries to persuade Kurisu to stay with them"
+				},
+				{
+					"time": "11:00",
+					"track": "Experiment",
+					"comment": "remix",
+					"scene": "Okabe and Kurisu talk about world lines"
+				},
+				{
+					"time": "12:41",
+					"track": "Operation G-BACK",
+					"comment": "from 0:18",
+					"scene": "Faris wins the Rai-Net championship"
+				},
+				{
+					"time": "16:42",
+					"track": "Suzuha",
+					"comment": "",
+					"scene": "Okabe has met Yuki Amane"
+				},
+				{
+					"time": "17:20",
+					"track": "Observer",
+					"comment": "from 1:05",
+					"scene": "Okabe alone in the desert"
+				},
+				{
+					"time": "20:07",
+					"track": "Christina I",
+					"comment": "",
+					"scene": "\"I'm saying that on an alternate world-line, I told you I was in love with you\""
+				},
+				{
+					"time": "21:09",
+					"track": "Christina II",
+					"comment": "from 1:08",
+					"scene": "\"Close your eyes\""
+				},
+				{
+					"time": "21:52",
+					"track": "Hacking to the Gate",
+					"comment": "",
+					"scene": "[Ending]"
+				}
+			]
+		}
+	],
+	"per-track": [
+		{
+			"track": "?",
+			"episodes": [
+				{
+					"episode": "13",
+					"time": "01:47",
+					"comment": "",
+					"scene": "Suzuha knocks the Rounders out"
+				},
+				{
+					"episode": "17",
+					"time": "17:45",
+					"comment": "unreleased version of One of selection -Gate of steiner-",
+					"scene": "Faris agrees to undo her D-Mail"
+				}
+			]
+		},
+		{
+			"track": "@Channel",
+			"episodes": [
+				{
+					"episode": "05",
+					"time": "14:36",
+					"comment": "",
+					"scene": "Daru repairs the IBN 5100"
+				},
+				{
+					"episode": "06",
+					"time": "19:16",
+					"comment": "",
+					"scene": "Moeka inspects the IBN 5100"
+				},
+				{
+					"episode": "08",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"track": "Adrenaline",
+			"episodes": [
+				{
+					"episode": "03",
+					"time": "09:25",
+					"comment": "remix",
+					"scene": "\"This humble kitchen appliance is... a time machine!\""
+				},
+				{
+					"episode": "04",
+					"time": "06:16",
+					"comment": "",
+					"scene": "They need an IBN 5100"
+				},
+				{
+					"episode": "05",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "12",
+					"time": "11:44",
+					"comment": "",
+					"scene": "Suzuha vs Kurisu"
+				},
+				{
+					"episode": "15",
+					"time": "06:54",
+					"comment": "remix",
+					"scene": "Chased by cops"
+				},
+				{
+					"episode": "24",
+					"time": "11:59",
+					"comment": "",
+					"scene": "Okabe provokes Kurisu's father"
+				}
+			]
+		},
+		{
+			"track": "Akihabara",
+			"episodes": [
+				{
+					"episode": "01",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "02",
+					"time": "14:10",
+					"comment": "",
+					"scene": "Titor never visited the year 2000"
+				},
+				{
+					"episode": "08",
+					"time": "14:31",
+					"comment": "vocals only, from 0:23",
+					"scene": "Okabe is charmed by a cosplaying Ruka"
+				},
+				{
+					"episode": "08",
+					"time": "14:52",
+					"comment": "vocals only, from 0:23",
+					"scene": "Kurisu is charmed by a cosplaying Ruka"
+				},
+				{
+					"episode": "10",
+					"time": "00:00",
+					"comment": "remix, from 0:35",
+					"scene": "The city has changed"
+				},
+				{
+					"episode": "11",
+					"time": "05:46",
+					"comment": "remix",
+					"scene": "Mayuri is concerned about the time leap"
+				},
+				{
+					"episode": "13",
+					"time": "16:10",
+					"comment": "remix",
+					"scene": "Okabe meets Mayuri at the temple"
+				}
+			]
+		},
+		{
+			"track": "Another Heaven",
+			"episodes": [
+				{
+					"episode": "24",
+					"time": "17:46",
+					"comment": "",
+					"scene": "Steins Gate world line"
+				}
+			]
+		},
+		{
+			"track": "August 13 -Explanation-",
+			"episodes": [
+				{
+					"episode": "13",
+					"time": "06:37",
+					"comment": "slowed down",
+					"scene": "The time leap succeeded"
+				},
+				{
+					"episode": "13",
+					"time": "14:36",
+					"comment": "slowed down",
+					"scene": "Okabe leaps back in time, again"
+				},
+				{
+					"episode": "14",
+					"time": "03:48",
+					"comment": "remix, slowed down",
+					"scene": "Okabe kicks Kurisu and Daru out of the lab"
+				},
+				{
+					"episode": "14",
+					"time": "08:52",
+					"comment": "remix, slowed down",
+					"scene": "Okabe can't take it anymore"
+				},
+				{
+					"episode": "14",
+					"time": "14:18",
+					"comment": "remix, slowed down",
+					"scene": "Putting the plan into action"
+				},
+				{
+					"episode": "15",
+					"time": "10:18",
+					"comment": "remix",
+					"scene": "Double time leap"
+				},
+				{
+					"episode": "16",
+					"time": "03:02",
+					"comment": "remix, slowed down",
+					"scene": "Okabe finds out who ordered the pins"
+				}
+			]
+		},
+		{
+			"track": "Back Home",
+			"episodes": [
+				{
+					"episode": "02",
+					"time": "07:34",
+					"comment": "",
+					"scene": "Okabe and Mayuri walk back home"
+				},
+				{
+					"episode": "10",
+					"time": "12:19",
+					"comment": "",
+					"scene": "Flashback of Okabe's illness"
+				},
+				{
+					"episode": "14",
+					"time": "00:12",
+					"comment": "distorted remix, played together with Butterfly effect",
+					"scene": "Okabe tried to save Mayuri many times"
+				},
+				{
+					"episode": "16",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "21",
+					"time": "07:36",
+					"comment": "",
+					"scene": "Mayuri thanks Okabe for the day at Comic Market"
+				},
+				{
+					"episode": "23b",
+					"time": "19:47",
+					"comment": "",
+					"scene": "Okabe gets a phone call"
+				}
+			]
+		},
+		{
+			"track": "Believe Me",
+			"episodes": [
+				{
+					"episode": "11",
+					"time": "12:50",
+					"comment": "",
+					"scene": "Kurisu tells Okabe about her relationship with her father"
+				},
+				{
+					"episode": "13",
+					"time": "11:48",
+					"comment": "",
+					"scene": "Mayuri is sad"
+				},
+				{
+					"episode": "16",
+					"time": "17:32",
+					"comment": "",
+					"scene": "Mr. Braun tells them about Suzuha's death"
+				},
+				{
+					"episode": "22",
+					"time": "08:53",
+					"comment": "",
+					"scene": "\"...then your heart is already broken\""
+				},
+				{
+					"episode": "22",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"track": "Boy",
+			"episodes": [
+				{
+					"episode": "25",
+					"time": "07:42",
+					"comment": "",
+					"scene": "Okabe tries to persuade Kurisu to stay with them"
+				}
+			]
+		},
+		{
+			"track": "Butterfly effect",
+			"episodes": [
+				{
+					"episode": "13",
+					"time": "02:25",
+					"comment": "",
+					"scene": "Okabe leaps back in time"
+				},
+				{
+					"episode": "14",
+					"time": "00:00",
+					"comment": "remix, from 1:12",
+					"scene": "Okabe tried to save Mayuri many times"
+				},
+				{
+					"episode": "14",
+					"time": "01:15",
+					"comment": "",
+					"scene": "Moeka shoots Mayuri to death... again"
+				},
+				{
+					"episode": "14",
+					"time": "08:35",
+					"comment": "remix, from 1:12",
+					"scene": "Okabe sees Mayuri shot to death"
+				},
+				{
+					"episode": "16",
+					"time": "21:15",
+					"comment": "",
+					"scene": "Yamanote line is open"
+				},
+				{
+					"episode": "17",
+					"time": "02:17",
+					"comment": "remix",
+					"scene": "Okabe asks Kurisu for help"
+				},
+				{
+					"episode": "19",
+					"time": "02:55",
+					"comment": "",
+					"scene": "Okabe explains the situation to Kurisu"
+				}
+			]
+		},
+		{
+			"track": "Christina I",
+			"episodes": [
+				{
+					"episode": "14",
+					"time": "12:05",
+					"comment": "",
+					"scene": "Kurisu cheers Okabe up"
+				},
+				{
+					"episode": "17",
+					"time": "03:55",
+					"comment": "",
+					"scene": "Okabe thanks Kurisu"
+				},
+				{
+					"episode": "20",
+					"time": "02:49",
+					"comment": "",
+					"scene": "Kurisu has a plan for retrieving the IBN 5100"
+				},
+				{
+					"episode": "21",
+					"time": "05:19",
+					"comment": "",
+					"scene": "Kurisu wants to help Okabe save Mayuri"
+				},
+				{
+					"episode": "22",
+					"time": "07:02",
+					"comment": "from 1:09",
+					"scene": "Kurisu accepts her fate"
+				},
+				{
+					"episode": "25",
+					"time": "20:07",
+					"comment": "",
+					"scene": "\"I'm saying that on an alternate world-line, I told you I was in love with you\""
+				}
+			]
+		},
+		{
+			"track": "Christina II",
+			"episodes": [
+				{
+					"episode": "22",
+					"time": "10:51",
+					"comment": "without strings",
+					"scene": "Okabe hugs Kurisu"
+				},
+				{
+					"episode": "22",
+					"time": "11:59",
+					"comment": "without glockenspiel, from 0:17",
+					"scene": "\"So long as you remember me... I'll still be right there... with you\""
+				},
+				{
+					"episode": "22",
+					"time": "12:51",
+					"comment": "from 0:17, a bit different in structure",
+					"scene": "Okabe and Kurisu kiss"
+				},
+				{
+					"episode": "22",
+					"time": "15:26",
+					"comment": "from 1:44",
+					"scene": "They kiss again"
+				},
+				{
+					"episode": "25",
+					"time": "21:09",
+					"comment": "from 1:08",
+					"scene": "\"Close your eyes\""
+				}
+			]
+		},
+		{
+			"track": "Cold eyes",
+			"episodes": [
+				{
+					"episode": "07",
+					"time": "07:08",
+					"comment": "",
+					"scene": "Choosing the lottery prize"
+				},
+				{
+					"episode": "25",
+					"time": "03:01",
+					"comment": "",
+					"scene": "Okabe at customs"
+				}
+			]
+		},
+		{
+			"track": "Confrontation",
+			"episodes": [
+				{
+					"episode": "12",
+					"time": "19:48",
+					"comment": "",
+					"scene": "The Rounders burst into the lab"
+				},
+				{
+					"episode": "13",
+					"time": "00:00",
+					"comment": "",
+					"scene": "\"The little one isn't needed\""
+				},
+				{
+					"episode": "13",
+					"time": "13:08",
+					"comment": "",
+					"scene": "Rounders, again"
+				},
+				{
+					"episode": "13",
+					"time": "20:36",
+					"comment": "remix, from 1:10",
+					"scene": "Nae stumbles into Mayuri"
+				},
+				{
+					"episode": "14",
+					"time": "04:52",
+					"comment": "",
+					"scene": "Okabe interrogates Moeka about the Rounders"
+				},
+				{
+					"episode": "19",
+					"time": "20:15",
+					"comment": "",
+					"scene": "Okabe is not able to undo Moeka's D-Mail"
+				},
+				{
+					"episode": "20",
+					"time": "00:00",
+					"comment": "",
+					"scene": "Moeka decides to help Okabe"
+				},
+				{
+					"episode": "21",
+					"time": "09:41",
+					"comment": "",
+					"scene": "Mayuri dies again"
+				}
+			]
+		},
+		{
+			"track": "Confrontation with fear",
+			"episodes": [
+				{
+					"episode": "01",
+					"time": "07:33",
+					"comment": "",
+					"scene": "Okabe finds Kurisu's body"
+				},
+				{
+					"episode": "04",
+					"time": "13:21",
+					"comment": "",
+					"scene": "Faris knows something about the IBN 5100"
+				},
+				{
+					"episode": "09",
+					"time": "12:44",
+					"comment": "",
+					"scene": "Okabe sees Moeka in the streets"
+				},
+				{
+					"episode": "10",
+					"time": "10:42",
+					"comment": "",
+					"scene": "\"I'm watching you\""
+				},
+				{
+					"episode": "11",
+					"time": "21:25",
+					"comment": "",
+					"scene": "The lab PC is connected to SERN"
+				},
+				{
+					"episode": "18",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"track": "Crossroads",
+			"episodes": [
+				{
+					"episode": "17",
+					"time": "05:56",
+					"comment": "",
+					"scene": "Okabe and Faris being chased"
+				},
+				{
+					"episode": "17",
+					"time": "07:32",
+					"comment": "reprise",
+					"scene": "Okabe and Faris being chased again"
+				}
+			]
+		},
+		{
+			"track": "D-Mail",
+			"episodes": [
+				{
+					"episode": "02",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "06",
+					"time": "14:57",
+					"comment": "",
+					"scene": "Kurisu explains how D-Mails work"
+				},
+				{
+					"episode": "09",
+					"time": "06:32",
+					"comment": "",
+					"scene": "Discussion about physical time travel"
+				},
+				{
+					"episode": "11",
+					"time": "04:17",
+					"comment": "",
+					"scene": "Kurisu thinks about the time leap"
+				},
+				{
+					"episode": "14",
+					"time": "17:04",
+					"comment": "remix",
+					"scene": "Making another plan"
+				}
+			]
+		},
+		{
+			"track": "Dependency",
+			"episodes": [
+				{
+					"episode": "19",
+					"time": "08:20",
+					"comment": "remix, without bass",
+					"scene": "Moeka is having a mental breakdown"
+				},
+				{
+					"episode": "19",
+					"time": "14:13",
+					"comment": "from 1:03",
+					"scene": "Moeka can't betray FB"
+				},
+				{
+					"episode": "23",
+					"time": "11:48",
+					"comment": "from 0:17",
+					"scene": "Okabe fights Kurisu's father"
+				},
+				{
+					"episode": "23b",
+					"time": "11:48",
+					"comment": "from 0:17",
+					"scene": "Okabe fights Kurisu's father"
+				},
+				{
+					"episode": "24",
+					"time": "12:50",
+					"comment": "",
+					"scene": "Okabe tases Kurisu"
+				}
+			]
+		},
+		{
+			"track": "Disquiet",
+			"episodes": [
+				{
+					"episode": "02",
+					"time": "00:18",
+					"comment": "",
+					"scene": "Kurisu is alive"
+				},
+				{
+					"episode": "03",
+					"time": "21:23",
+					"comment": "",
+					"scene": "\"Human is Dead, mismatch.\""
+				},
+				{
+					"episode": "04",
+					"time": "00:00",
+					"comment": "",
+					"scene": "\"Human is Dead, mismatch.\""
+				},
+				{
+					"episode": "07",
+					"time": "11:37",
+					"comment": "",
+					"scene": "Ruka brings Okabe the lottery ticket"
+				},
+				{
+					"episode": "08",
+					"time": "10:37",
+					"comment": "",
+					"scene": "Moeka has disappeared"
+				},
+				{
+					"episode": "09",
+					"time": "20:12",
+					"comment": "",
+					"scene": "Faris is hesitant to send the D-Mail"
+				},
+				{
+					"episode": "10",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "11",
+					"time": "10:11",
+					"comment": "",
+					"scene": "\"Kurisu works for SERN\""
+				},
+				{
+					"episode": "13",
+					"time": "18:24",
+					"comment": "",
+					"scene": "Okabe tries to escape with Mayuri"
+				},
+				{
+					"episode": "15",
+					"time": "08:01",
+					"comment": "",
+					"scene": "Okabe apologizes for having stopped Suzuha from leaving"
+				},
+				{
+					"episode": "19",
+					"time": "11:19",
+					"comment": "",
+					"scene": "Reading Steiner doesn't kick in"
+				}
+			]
+		},
+		{
+			"track": "Event",
+			"episodes": [
+				{
+					"episode": "02",
+					"time": "21:31",
+					"comment": "",
+					"scene": "The banana is back in the bunch"
+				},
+				{
+					"episode": "04",
+					"time": "12:11",
+					"comment": "",
+					"scene": "Okabe tells Kurisu about SERN's secret plot"
+				},
+				{
+					"episode": "06",
+					"time": "11:17",
+					"comment": "",
+					"scene": "Okabe is starting to feel frightened"
+				},
+				{
+					"episode": "06",
+					"time": "21:33",
+					"comment": "",
+					"scene": "\"Are you FB?\""
+				},
+				{
+					"episode": "08",
+					"time": "21:03",
+					"comment": "remix",
+					"scene": "Is Ruka a girl now?"
+				},
+				{
+					"episode": "09",
+					"time": "14:24",
+					"comment": "",
+					"scene": "How does Mayuri know Moeka?"
+				},
+				{
+					"episode": "09",
+					"time": "20:39",
+					"comment": "",
+					"scene": "Okabe meets Faris's father"
+				},
+				{
+					"episode": "11",
+					"time": "19:07",
+					"comment": "",
+					"scene": "\"You know too much\""
+				},
+				{
+					"episode": "11",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "12",
+					"time": "18:47",
+					"comment": "",
+					"scene": "Time has stopped"
+				},
+				{
+					"episode": "21",
+					"time": "00:00",
+					"comment": "",
+					"scene": "The hacking is canceled"
+				},
+				{
+					"episode": "23b",
+					"time": "14:35",
+					"comment": "",
+					"scene": "Okabe is about to give up saving Kurisu"
+				}
+			]
+		},
+		{
+			"track": "Experiment",
+			"episodes": [
+				{
+					"episode": "02",
+					"time": "10:45",
+					"comment": "",
+					"scene": "Okabe searches for information about the satellite"
+				},
+				{
+					"episode": "03",
+					"time": "11:47",
+					"comment": "",
+					"scene": "LHC"
+				},
+				{
+					"episode": "06",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "07",
+					"time": "15:02",
+					"comment": "",
+					"scene": "\"Why not try hitting up ol' John Titor for advice?\""
+				},
+				{
+					"episode": "08",
+					"time": "00:39",
+					"comment": "",
+					"scene": "Okabe tells Daru and Kurisu that the D-Mail was successful"
+				},
+				{
+					"episode": "08",
+					"time": "15:44",
+					"comment": "lead only, from 1:04",
+					"scene": "Ruka knows the existence of the D-Mails"
+				},
+				{
+					"episode": "08",
+					"time": "16:23",
+					"comment": "",
+					"scene": "Ruka wants to send a D-Mail"
+				},
+				{
+					"episode": "09",
+					"time": "09:27",
+					"comment": "remix, from 1:04",
+					"scene": "Kurisu explains the \"butterfly effect\""
+				},
+				{
+					"episode": "11",
+					"time": "07:40",
+					"comment": "",
+					"scene": "Okabe and Mayuri meet Moeka"
+				},
+				{
+					"episode": "13",
+					"time": "08:20",
+					"comment": "",
+					"scene": "Okabe is searching for Mayuri"
+				},
+				{
+					"episode": "15",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "23",
+					"time": "00:00",
+					"comment": "",
+					"scene": "\"Seriously... World War III?\""
+				},
+				{
+					"episode": "23b",
+					"time": "00:00",
+					"comment": "",
+					"scene": "\"World War III?\""
+				},
+				{
+					"episode": "25",
+					"time": "11:00",
+					"comment": "remix",
+					"scene": "Okabe and Kurisu talk about world lines"
+				}
+			]
+		},
+		{
+			"track": "Explanation",
+			"episodes": [
+				{
+					"episode": "11",
+					"time": "11:59",
+					"comment": "",
+					"scene": "Kurisu is hesitant about testing the time leap"
+				},
+				{
+					"episode": "12",
+					"time": "04:08",
+					"comment": "",
+					"scene": "The Time Leap Machine is ready"
+				}
+			]
+		},
+		{
+			"track": "Fake Verthandi",
+			"episodes": [
+				{
+					"episode": "22",
+					"time": "21:45",
+					"comment": "intro",
+					"scene": "\"This is for the best... isn't it... Kurisu?\""
+				}
+			]
+		},
+		{
+			"track": "Farewell",
+			"episodes": [
+				{
+					"episode": "15",
+					"time": "20:39",
+					"comment": "",
+					"scene": "Suzuha thanks Okabe"
+				},
+				{
+					"episode": "15",
+					"time": "22:00",
+					"comment": "reprise",
+					"scene": "The street vendor found Suzuha's father?"
+				},
+				{
+					"episode": "16",
+					"time": "09:50",
+					"comment": "",
+					"scene": "Mayuri finds Suzuha's father, Suzuha leaves"
+				},
+				{
+					"episode": "16",
+					"time": "14:26",
+					"comment": "strings only",
+					"scene": "Suzuha's letter"
+				},
+				{
+					"episode": "16",
+					"time": "19:35",
+					"comment": "piano only",
+					"scene": "Mr. Braun talks about Suzuha in the new world line"
+				},
+				{
+					"episode": "17",
+					"time": "13:23",
+					"comment": "",
+					"scene": "Faris's father tells Okabe about her kidnapping"
+				},
+				{
+					"episode": "18",
+					"time": "17:06",
+					"comment": "piano only",
+					"scene": "They are about to undo Ruka's D-Mail"
+				},
+				{
+					"episode": "20",
+					"time": "15:33",
+					"comment": "",
+					"scene": "Mr. Braun tells his story"
+				},
+				{
+					"episode": "21",
+					"time": "12:58",
+					"comment": "from 1:27, strings only",
+					"scene": "Okabe reveals what happens if they undo the first D-Mail"
+				},
+				{
+					"episode": "22",
+					"time": "19:50",
+					"comment": "from 1:27, without piano",
+					"scene": "The first D-Mail is deleted"
+				},
+				{
+					"episode": "24",
+					"time": "22:09",
+					"comment": "piano only, from 1:02",
+					"scene": "Okabe and Kurisu meet again"
+				},
+				{
+					"episode": "24",
+					"time": "22:34",
+					"comment": "piano only, from 1:27",
+					"scene": "\"So we meet again, Christina\""
+				},
+				{
+					"episode": "24",
+					"time": "22:58",
+					"comment": "from 1:51",
+					"scene": "\"This is the choice of Steins Gate\""
+				}
+			]
+		},
+		{
+			"track": "Future Gadget Lab",
+			"episodes": [
+				{
+					"episode": "07",
+					"time": "00:21",
+					"comment": "",
+					"scene": "Okabe unhinges the microwave door"
+				},
+				{
+					"episode": "07",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"track": "Gate of steiner",
+			"episodes": [
+				{
+					"episode": "01",
+					"time": "21:43",
+					"comment": "",
+					"scene": "Okabe finds out he has sent an email to the past"
+				},
+				{
+					"episode": "13",
+					"time": "13:54",
+					"comment": "",
+					"scene": "Mayuri dies, again"
+				},
+				{
+					"episode": "20",
+					"time": "21:31",
+					"comment": "",
+					"scene": "Okabe remembers the content of the first D-Mail"
+				},
+				{
+					"episode": "22",
+					"time": "22:12",
+					"comment": "without drums, from 0:26",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "23",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"track": "Gate of steiner -piano-",
+			"episodes": [
+				{
+					"episode": "05",
+					"time": "21:41",
+					"comment": "",
+					"scene": "Okabe plans to create a real time machine"
+				},
+				{
+					"episode": "06",
+					"time": "16:24",
+					"comment": "from 2:06",
+					"scene": "Okabe dreams of being sucked into a black hole"
+				},
+				{
+					"episode": "07",
+					"time": "21:24",
+					"comment": "from 1:22",
+					"scene": "\"Kyouma, I ask you to be our savior\""
+				},
+				{
+					"episode": "08",
+					"time": "00:00",
+					"comment": "",
+					"scene": "Okabe goes completely mad"
+				},
+				{
+					"episode": "10",
+					"time": "19:27",
+					"comment": "",
+					"scene": "Suzuha has left"
+				},
+				{
+					"episode": "16",
+					"time": "06:05",
+					"comment": "from 2:32",
+					"scene": "Okabe swears to Suzuha he will change the future"
+				},
+				{
+					"episode": "17",
+					"time": "00:00",
+					"comment": "",
+					"scene": "\"Yesterday nothing happened...\""
+				},
+				{
+					"episode": "24",
+					"time": "15:16",
+					"comment": "",
+					"scene": "Kurisu is finally safe"
+				}
+			]
+		},
+		{
+			"track": "Hack -short vision-",
+			"episodes": [
+				{
+					"episode": "14",
+					"time": "12:52",
+					"comment": "",
+					"scene": "Kurisu makes a plan"
+				}
+			]
+		},
+		{
+			"track": "Hacking to the Gate",
+			"episodes": [
+				{
+					"episode": "01",
+					"time": "10:33",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "02",
+					"time": "01:14",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "03",
+					"time": "01:37",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "04",
+					"time": "01:34",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "05",
+					"time": "01:56",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "06",
+					"time": "01:05",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "07",
+					"time": "01:56",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "08",
+					"time": "01:45",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "09",
+					"time": "00:59",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "10",
+					"time": "00:52",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "11",
+					"time": "01:21",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "12",
+					"time": "01:47",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "13",
+					"time": "02:57",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "14",
+					"time": "02:18",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "15",
+					"time": "00:16",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "16",
+					"time": "01:24",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "17",
+					"time": "00:46",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "18",
+					"time": "00:33",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "19",
+					"time": "00:32",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "20",
+					"time": "00:50",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "21",
+					"time": "00:18",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "22",
+					"time": "00:12",
+					"comment": "first verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "23",
+					"time": "01:46",
+					"comment": "second verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "23b",
+					"time": "01:46",
+					"comment": "second verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "24",
+					"time": "01:42",
+					"comment": "second verse",
+					"scene": "[Opening]"
+				},
+				{
+					"episode": "25",
+					"time": "21:52",
+					"comment": "",
+					"scene": "[Ending]"
+				}
+			]
+		},
+		{
+			"track": "John Titor",
+			"episodes": [
+				{
+					"episode": "02",
+					"time": "11:26",
+					"comment": "",
+					"scene": "John Titor introduces himself"
+				},
+				{
+					"episode": "03",
+					"time": "16:20",
+					"comment": "",
+					"scene": "John Titor explains what the divergence is"
+				},
+				{
+					"episode": "07",
+					"time": "19:49",
+					"comment": "",
+					"scene": "Okabe and John Titor exchange emails"
+				},
+				{
+					"episode": "09",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"track": "Lab-members",
+			"episodes": [
+				{
+					"episode": "04",
+					"time": "03:09",
+					"comment": "",
+					"scene": "Mayuri and Suzuha"
+				},
+				{
+					"episode": "05",
+					"time": "10:01",
+					"comment": "",
+					"scene": "Daru is repairing the IBN 5100, Kurisu wears the lab coat"
+				},
+				{
+					"episode": "07",
+					"time": "07:33",
+					"comment": "",
+					"scene": "Mayuri shows Moeka around the lab"
+				},
+				{
+					"episode": "08",
+					"time": "08:46",
+					"comment": "",
+					"scene": "Ruka brings a watermelon"
+				},
+				{
+					"episode": "09",
+					"time": "05:12",
+					"comment": "",
+					"scene": "Mayuri in school uniform"
+				},
+				{
+					"episode": "10",
+					"time": "03:38",
+					"comment": "",
+					"scene": "Mayuri suggests spending a day at the beach"
+				},
+				{
+					"episode": "25",
+					"time": "01:04",
+					"comment": "",
+					"scene": "They're going to America!"
+				}
+			]
+		},
+		{
+			"track": "Labordinary",
+			"episodes": [
+				{
+					"episode": "12",
+					"time": "13:37",
+					"comment": "",
+					"scene": "Suzuha plays Rai-Net"
+				},
+				{
+					"episode": "15",
+					"time": "18:09",
+					"comment": "",
+					"scene": "Mayuri is handing out flyers"
+				},
+				{
+					"episode": "18",
+					"time": "02:14",
+					"comment": "",
+					"scene": "Okabe made Ruka cry again"
+				}
+			]
+		},
+		{
+			"track": "Last Mission",
+			"episodes": [
+				{
+					"episode": "24",
+					"time": "07:03",
+					"comment": "",
+					"scene": "The last mission begins"
+				},
+				{
+					"episode": "24",
+					"time": "10:19",
+					"comment": "reprise",
+					"scene": "The fake blood dried up"
+				}
+			]
+		},
+		{
+			"track": "Menace",
+			"episodes": [
+				{
+					"episode": "15",
+					"time": "01:51",
+					"comment": "remix",
+					"scene": "SERN's dystopia flash...forward"
+				},
+				{
+					"episode": "19",
+					"time": "10:17",
+					"comment": "",
+					"scene": "\"Give it back!\""
+				},
+				{
+					"episode": "19",
+					"time": "12:34",
+					"comment": "",
+					"scene": "Moeka tries to break down the door"
+				}
+			]
+		},
+		{
+			"track": "My alley",
+			"episodes": [
+				{
+					"episode": "25",
+					"time": "03:52",
+					"comment": "",
+					"scene": "Okabe and Kurisu meet again"
+				}
+			]
+		},
+		{
+			"track": "Network battle",
+			"episodes": [
+				{
+					"episode": "17",
+					"time": "05:23",
+					"comment": "bgm, from 1:00",
+					"scene": "Okabe phones Daru and asks him where Faris is"
+				},
+				{
+					"episode": "17",
+					"time": "05:46",
+					"comment": "from 1:23",
+					"scene": "Okabe goes to the UPX building to meet Faris"
+				}
+			]
+		},
+		{
+			"track": "No joke!",
+			"episodes": [
+				{
+					"episode": "03",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "10",
+					"time": "13:55",
+					"comment": "",
+					"scene": "Kurisu's cooking"
+				},
+				{
+					"episode": "25",
+					"time": "05:14",
+					"comment": "",
+					"scene": "Okabe's and Faris's chuunibyou"
+				}
+			]
+		},
+		{
+			"track": "Noisy times",
+			"episodes": [
+				{
+					"episode": "18",
+					"time": "09:40",
+					"comment": "",
+					"scene": "Kurisu tries to help Okabe with the date"
+				}
+			]
+		},
+		{
+			"track": "Observer",
+			"episodes": [
+				{
+					"episode": "17",
+					"time": "20:43",
+					"comment": "",
+					"scene": "Faris's D-Mail is undone"
+				},
+				{
+					"episode": "18",
+					"time": "21:31",
+					"comment": "",
+					"scene": "Ruka is back to being a boy"
+				},
+				{
+					"episode": "20",
+					"time": "07:16",
+					"comment": "from 2:14",
+					"scene": "M4 is Moeka's code name"
+				},
+				{
+					"episode": "20",
+					"time": "13:18",
+					"comment": "from 2:14",
+					"scene": "\"Couldn't keep your trap shut--huh, M4?\""
+				},
+				{
+					"episode": "20",
+					"time": "18:34",
+					"comment": "from 2:14",
+					"scene": "Moeka's last words"
+				},
+				{
+					"episode": "21",
+					"time": "03:04",
+					"comment": "",
+					"scene": "Okabe and Mayuri at the Comic Market"
+				},
+				{
+					"episode": "21",
+					"time": "04:28",
+					"comment": "",
+					"scene": "Okabe wants to save Mayuri without changing world line"
+				},
+				{
+					"episode": "21",
+					"time": "11:09",
+					"comment": "from 0:36",
+					"scene": "Kurisu wants to talk to Okabe"
+				},
+				{
+					"episode": "23",
+					"time": "15:53",
+					"comment": "",
+					"scene": "Okabe is about to give up saving Kurisu"
+				},
+				{
+					"episode": "23",
+					"time": "16:40",
+					"comment": "from 2:14",
+					"scene": "Mayuri slaps Okabe"
+				},
+				{
+					"episode": "24",
+					"time": "04:48",
+					"comment": "from 2:14",
+					"scene": "Mayuri remembers Kurisu"
+				},
+				{
+					"episode": "25",
+					"time": "17:20",
+					"comment": "from 1:05",
+					"scene": "Okabe alone in the desert"
+				}
+			]
+		},
+		{
+			"track": "Okarin's suspense",
+			"episodes": [
+				{
+					"episode": "02",
+					"time": "13:21",
+					"comment": "",
+					"scene": "Okabe can't find any information about John Titor"
+				},
+				{
+					"episode": "14",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "16",
+					"time": "00:00",
+					"comment": "",
+					"scene": "\"He looked just like a barrel\""
+				},
+				{
+					"episode": "20",
+					"time": "11:56",
+					"comment": "",
+					"scene": "Okabe wants to question Mr. Braun"
+				}
+			]
+		},
+		{
+			"track": "One of selection -Gate of steiner-",
+			"episodes": [
+				{
+					"episode": "18",
+					"time": "19:35",
+					"comment": "version in 'GATE OF STEINER 10th Anniversary'",
+					"scene": "Ruka confesses her feelings to Okabe"
+				},
+				{
+					"episode": "21",
+					"time": "10:20",
+					"comment": "version in 'STEINS;GATE Future Gadget Compact Disc 8 Soundtrack II \"Event Horizon\"'",
+					"scene": "\"You can't see any stars from here, right Mayuri?\""
+				}
+			]
+		},
+		{
+			"track": "Operation G-BACK",
+			"episodes": [
+				{
+					"episode": "04",
+					"time": "14:59",
+					"comment": "",
+					"scene": "Rai-Net Access Battlers match"
+				},
+				{
+					"episode": "25",
+					"time": "12:41",
+					"comment": "from 0:18",
+					"scene": "Faris wins the Rai-Net championship"
+				}
+			]
+		},
+		{
+			"track": "OPERATION SKULD",
+			"episodes": [
+				{
+					"episode": "23",
+					"time": "17:50",
+					"comment": "",
+					"scene": "Okabe watches a video from the future"
+				},
+				{
+					"episode": "24",
+					"time": "00:01",
+					"comment": "",
+					"scene": "A video from the future"
+				}
+			]
+		},
+		{
+			"track": "Promise",
+			"episodes": [
+				{
+					"episode": "13",
+					"time": "05:26",
+					"comment": "",
+					"scene": "Flashback of Mayuri and Okabe in the graveyard"
+				},
+				{
+					"episode": "20",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "21",
+					"time": "18:14",
+					"comment": "",
+					"scene": "Mayuri recalls her first day at the lab"
+				},
+				{
+					"episode": "22",
+					"time": "17:19",
+					"comment": "",
+					"scene": "\"Sayonara\""
+				}
+			]
+		},
+		{
+			"track": "Promise -piano-",
+			"episodes": [
+				{
+					"episode": "04",
+					"time": "04:54",
+					"comment": "",
+					"scene": "Mayuri's \"Shaking Hands with Stardust\""
+				},
+				{
+					"episode": "10",
+					"time": "16:52",
+					"comment": "",
+					"scene": "Kurisu feels at home in the lab"
+				},
+				{
+					"episode": "12",
+					"time": "17:22",
+					"comment": "",
+					"scene": "Okabe and Mayuri talk on the roof"
+				},
+				{
+					"episode": "18",
+					"time": "15:27",
+					"comment": "",
+					"scene": "Flashback of Okabe and Ruka's first meeting"
+				},
+				{
+					"episode": "20",
+					"time": "05:14",
+					"comment": "",
+					"scene": "Mayuri feels distant from Okabe"
+				},
+				{
+					"episode": "21",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"track": "Quiet air",
+			"episodes": [
+				{
+					"episode": "10",
+					"time": "08:35",
+					"comment": "from 1:04",
+					"scene": "Okabe wants to help Suzuha find her father"
+				},
+				{
+					"episode": "18",
+					"time": "04:41",
+					"comment": "",
+					"scene": "Ruka crying"
+				}
+			]
+		},
+		{
+			"track": "Run away!",
+			"episodes": [
+				{
+					"episode": "11",
+					"time": "00:25",
+					"comment": "",
+					"scene": "Suzuha tries to distract Mr. Braun"
+				}
+			]
+		},
+		{
+			"track": "Science Of The Strings",
+			"episodes": [
+				{
+					"episode": "04",
+					"time": "21:30",
+					"comment": "",
+					"scene": "Okabe and Kurisu carry the IBN 5100"
+				},
+				{
+					"episode": "04",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "06",
+					"time": "08:16",
+					"comment": "",
+					"scene": "D-Mail/banana test"
+				},
+				{
+					"episode": "08",
+					"time": "18:11",
+					"comment": "",
+					"scene": "Okabe suggests sending the D-Mail to a pager"
+				}
+			]
+		},
+		{
+			"track": "Select of sorrow",
+			"episodes": [
+				{
+					"episode": "21",
+					"time": "08:55",
+					"comment": "",
+					"scene": "Okabe tries to sacrifice himself to save Mayuri"
+				}
+			]
+		},
+		{
+			"track": "Self affirmation",
+			"episodes": [
+				{
+					"episode": "14",
+					"time": "21:52",
+					"comment": "from 2:36",
+					"scene": "Suzuha is John Titor"
+				},
+				{
+					"episode": "15",
+					"time": "00:00",
+					"comment": "from 2:36",
+					"scene": "Suzuha is John Titor"
+				}
+			]
+		},
+		{
+			"track": "Silence eyes",
+			"episodes": [
+				{
+					"episode": "01",
+					"time": "14:46",
+					"comment": "",
+					"scene": "News about the satellite"
+				},
+				{
+					"episode": "05",
+					"time": "18:35",
+					"comment": "",
+					"scene": "Jellyman's report"
+				},
+				{
+					"episode": "07",
+					"time": "12:30",
+					"comment": "",
+					"scene": "Okabe realizes he's the only one to remember the previous world lines"
+				},
+				{
+					"episode": "09",
+					"time": "08:20",
+					"comment": "",
+					"scene": "The IBN 5100 has disappeared"
+				},
+				{
+					"episode": "13",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "19",
+					"time": "15:52",
+					"comment": "",
+					"scene": "FB recruited Moeka"
+				},
+				{
+					"episode": "19",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"track": "Sky-Clad Observer",
+			"episodes": [
+				{
+					"episode": "23",
+					"time": "20:45",
+					"comment": "",
+					"scene": "\"Heave anchor! This ship of fools is about to embark!\" [Ending]"
+				}
+			]
+		},
+		{
+			"track": "Suspicious eyes",
+			"episodes": [
+				{
+					"episode": "23",
+					"time": "03:16",
+					"comment": "",
+					"scene": "Suzuha tells Okabe about the Steins Gate"
+				},
+				{
+					"episode": "23b",
+					"time": "03:16",
+					"comment": "",
+					"scene": "Suzuha tells Okabe about the Steins Gate"
+				}
+			]
+		},
+		{
+			"track": "Suzuha",
+			"episodes": [
+				{
+					"episode": "05",
+					"time": "07:29",
+					"comment": "",
+					"scene": "Suzuha apologizes for her behavior towards Kurisu"
+				},
+				{
+					"episode": "10",
+					"time": "06:57",
+					"comment": "",
+					"scene": "Suzuha is searching for her father"
+				},
+				{
+					"episode": "12",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "15",
+					"time": "13:04",
+					"comment": "",
+					"scene": "Suzuha talks to Daru about her father"
+				},
+				{
+					"episode": "16",
+					"time": "05:03",
+					"comment": "",
+					"scene": "Suzuha thanks Okabe again"
+				},
+				{
+					"episode": "25",
+					"time": "16:42",
+					"comment": "",
+					"scene": "Okabe has met Yuki Amane"
+				}
+			]
+		},
+		{
+			"track": "Teenager's tango",
+			"episodes": [
+				{
+					"episode": "05",
+					"time": "12:52",
+					"comment": "",
+					"scene": "\"My name is Hououin!\""
+				},
+				{
+					"episode": "08",
+					"time": "13:32",
+					"comment": "",
+					"scene": "Ruka's cosplay"
+				}
+			]
+		},
+		{
+			"track": "Tender affection",
+			"episodes": [
+				{
+					"episode": "07",
+					"time": "19:09",
+					"comment": "from 1:22",
+					"scene": "Mayuri phones Okabe"
+				},
+				{
+					"episode": "11",
+					"time": "15:26",
+					"comment": "from 0:15",
+					"scene": "Okabe wants to help Kurisu reconcile with her father"
+				},
+				{
+					"episode": "12",
+					"time": "09:06",
+					"comment": "",
+					"scene": "Okabe and Kurisu awkward scene"
+				},
+				{
+					"episode": "16",
+					"time": "07:29",
+					"comment": "",
+					"scene": "Suzuha is about to leave"
+				},
+				{
+					"episode": "17",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				},
+				{
+					"episode": "22",
+					"time": "03:46",
+					"comment": "from 0:15",
+					"scene": "Kurisu mends Okabe's lab coat"
+				}
+			]
+		},
+		{
+			"track": "The Twelve Laws that Govern Time",
+			"episodes": [
+				{
+					"episode": "01",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "02",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "03",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "04",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "05",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "06",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "07",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "08",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "09",
+					"time": "22:10",
+					"comment": "",
+					"scene": "The city has changed [Ending]"
+				},
+				{
+					"episode": "10",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "11",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "12",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "13",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "14",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "15",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "16",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "17",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "18",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "19",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "20",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "21",
+					"time": "22:10",
+					"comment": "",
+					"scene": "[Ending]"
+				},
+				{
+					"episode": "23b",
+					"time": "21:17",
+					"comment": "",
+					"scene": "Nothing has changed [Ending]"
+				}
+			]
+		},
+		{
+			"track": "Timeleap",
+			"episodes": [
+				{
+					"episode": "19",
+					"time": "06:03",
+					"comment": "",
+					"scene": "Moeka killed herself"
+				},
+				{
+					"episode": "20",
+					"time": "08:04",
+					"comment": "",
+					"scene": "Someone retrieves the IBN 5100 from the coin locker"
+				},
+				{
+					"episode": "21",
+					"time": "21:47",
+					"comment": "",
+					"scene": "Does Kurisu remember something?"
+				},
+				{
+					"episode": "22",
+					"time": "05:18",
+					"comment": "",
+					"scene": "Kurisu has a glimpse of Reading Steiner"
+				},
+				{
+					"episode": "23",
+					"time": "09:59",
+					"comment": "",
+					"scene": "Kurisu meets with her father"
+				},
+				{
+					"episode": "23",
+					"time": "13:04",
+					"comment": "",
+					"scene": "Kurisu dies"
+				},
+				{
+					"episode": "23b",
+					"time": "09:59",
+					"comment": "",
+					"scene": "Kurisu meets with her father"
+				},
+				{
+					"episode": "23b",
+					"time": "13:04",
+					"comment": "",
+					"scene": "Kurisu dies"
+				}
+			]
+		},
+		{
+			"track": "Tottery",
+			"episodes": [
+				{
+					"episode": "03",
+					"time": "03:35",
+					"comment": "",
+					"scene": "Kurisu tastes the gel-nana"
+				},
+				{
+					"episode": "06",
+					"time": "06:05",
+					"comment": "",
+					"scene": "They name the D-Mails"
+				},
+				{
+					"episode": "07",
+					"time": "05:11",
+					"comment": "",
+					"scene": "They discuss about the lottery D-Mail"
+				},
+				{
+					"episode": "09",
+					"time": "18:50",
+					"comment": "",
+					"scene": "Kurisu hangs up on Okabe"
+				},
+				{
+					"episode": "15",
+					"time": "16:07",
+					"comment": "",
+					"scene": "Okabe and Suzuha search for information about the pin badge"
+				},
+				{
+					"episode": "18",
+					"time": "07:45",
+					"comment": "",
+					"scene": "Tsundere Kurisu"
+				},
+				{
+					"episode": "24",
+					"time": "23:40",
+					"comment": "",
+					"scene": "[Preview]"
+				}
+			]
+		},
+		{
+			"track": "Tubes",
+			"episodes": [
+				{
+					"episode": "14",
+					"time": "18:55",
+					"comment": "",
+					"scene": "Suzuha's explanation about world lines"
+				},
+				{
+					"episode": "15",
+					"time": "03:54",
+					"comment": "",
+					"scene": "Suzuha tells Okabe and Kurisu their future"
+				},
+				{
+					"episode": "15",
+					"time": "15:00",
+					"comment": "",
+					"scene": "Suzuha gives Okabe the divergence meter"
+				},
+				{
+					"episode": "20",
+					"time": "20:08",
+					"comment": "",
+					"scene": "Daru hacks SERN's database to delete the first D-Mail"
+				},
+				{
+					"episode": "23",
+					"time": "06:52",
+					"comment": "",
+					"scene": "Okabe travels to the past"
+				},
+				{
+					"episode": "23b",
+					"time": "06:52",
+					"comment": "",
+					"scene": "Okabe travels to the past"
+				}
+			]
+		},
+		{
+			"track": "Walking on sleeping",
+			"episodes": [
+				{
+					"episode": "10",
+					"time": "04:50",
+					"comment": "",
+					"scene": "Ruka is a girl"
+				}
+			]
+		},
+		{
+			"track": "Warmth of days -Promise-",
+			"episodes": [
+				{
+					"episode": "18",
+					"time": "05:24",
+					"comment": "",
+					"scene": "Ruka wants to go on a date with Okabe"
+				}
+			]
+		},
+		{
+			"track": "\u30ef\u30bf\u30b7\u2606LOVE\u306a\u2606\u30aa\u30c8\u30e1!",
+			"episodes": [
+				{
+					"episode": "04",
+					"time": "13:36",
+					"comment": "from 0:10",
+					"scene": "Faris Cup"
+				}
+			]
+		}
+	]
+}

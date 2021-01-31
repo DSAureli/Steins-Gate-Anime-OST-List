@@ -1,10 +1,10 @@
-﻿[00:18] Disquiet {Kurisu is alive}
+[00:18] Disquiet {Kurisu is alive}
 [01:14] Hacking to the Gate (first verse) {[Opening]}
-[07:34] Back Home {Okabe and Mayuri}
-[10:45] Experiment {Okabe searches information about the satellite}
+[07:34] Back Home {Okabe and Mayuri walk back home}
+[10:45] Experiment {Okabe searches for information about the satellite}
 [11:26] John Titor {John Titor introduces himself}
-[13:21] Okarin's Suspense {Okabe doesn't find information about John Titor}
-[14:10] Akihabara {Titor never went to year 2000}
-[21:31] Event {Gel banana is back in the bunch}
+[13:21] Okarin's suspense {Okabe can't find any information about John Titor}
+[14:10] Akihabara {Titor never visited the year 2000}
+[21:31] Event {The banana is back in the bunch}
 [22:10] The Twelve Laws that Govern Time {[Ending]}
 [23:40] D-Mail {[Preview]}

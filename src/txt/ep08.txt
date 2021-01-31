@@ -1,14 +1,14 @@
-﻿[00:00] Gate of Steiner -piano- {Okabe goes completely mad}
-[00:39] Experiment {Okabe tells them that the D-Mail was successful}
+[00:00] Gate of steiner -piano- {Okabe goes completely mad}
+[00:39] Experiment {Okabe tells Daru and Kurisu that the D-Mail was successful}
 [01:45] Hacking to the Gate (first verse) {[Opening]}
-[08:46] Lab-Members {Ruka brings a watermelon}
+[08:46] Lab-members {Ruka brings a watermelon}
 [10:37] Disquiet {Moeka has disappeared}
-[13:32] Teenager's Tango {Ruka's cosplay}
-[14:31] Akihabara (vocals only, from 0:23) {Okabe is the victim of a "fierce psychological attack"...}
-[14:52] Akihabara (vocals only, from 0:23) {...and so is Kurisu}
-[15:44] Experiment (lead only, from 1:04) {Ruka knows the existence of D-Mails}
+[13:32] Teenager's tango {Ruka's cosplay}
+[14:31] Akihabara (vocals only, from 0:23) {Okabe is charmed by a cosplaying Ruka}
+[14:52] Akihabara (vocals only, from 0:23) {Kurisu is charmed by a cosplaying Ruka}
+[15:44] Experiment (lead only, from 1:04) {Ruka knows the existence of the D-Mails}
 [16:23] Experiment {Ruka wants to send a D-Mail}
-[18:11] Science of the Strings {Okabe suggests sending the D-Mail to a pager}
+[18:11] Science Of The Strings {Okabe suggests sending the D-Mail to a pager}
 [21:03] Event (remix) {Is Ruka a girl now?}
 [22:10] The Twelve Laws that Govern Time {[Ending]}
 [23:40] @Channel {[Preview]}

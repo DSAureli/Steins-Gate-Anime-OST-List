@@ -1,14 +1,14 @@
-﻿[00:12] Hacking to the Gate (first verse) {[Opening]}
-[03:46] Tender Affection (from 0:15) {Kurisu mends Okabe's lab coat}
-[05:18] Time Leap {Kurisu has a glimpse of Reading Steiner}
+[00:12] Hacking to the Gate (first verse) {[Opening]}
+[03:46] Tender affection (from 0:15) {Kurisu mends Okabe's lab coat}
+[05:18] Timeleap {Kurisu has a glimpse of Reading Steiner}
 [07:02] Christina I (from 1:09) {Kurisu accepts her fate}
-[08:53] Believe Me {"...then your heart's already broken"}
+[08:53] Believe Me {"...then your heart is already broken"}
 [10:51] Christina II (without strings) {Okabe hugs Kurisu}
-[11:59] Christina II (without xylophone, from 0:17) {I can't describe this scene}
-[12:51] Christina II (from 0:17, a bit different in structure) {I can't describe this one either}
+[11:59] Christina II (without glockenspiel, from 0:17) {"So long as you remember me... I'll still be right there... with you"}
+[12:51] Christina II (from 0:17, a bit different in structure) {Okabe and Kurisu kiss}
 [15:26] Christina II (from 1:44) {They kiss again}
 [17:19] Promise {"Sayonara"}
-[19:50] Farewell (from 1:27 without piano) {Mission complete}
-[21:45] Fake Verthandi (intro) {"This is for the best... right, Kurisu?"}
-[22:12] Gate of Steiner (without drums, from 0:26) {[Ending]}
+[19:50] Farewell (from 1:27, without piano) {The first D-Mail is deleted}
+[21:45] Fake Verthandi (intro) {"This is for the best... isn't it... Kurisu?"}
+[22:12] Gate of steiner (without drums, from 0:26) {[Ending]}
 [23:40] Believe Me {[Preview]}

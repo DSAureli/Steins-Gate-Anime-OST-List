@@ -1,13 +1,13 @@
-﻿[00:25] Run Away! {Suzuha distracts Mr. Braun}
+[00:25] Run away! {Suzuha tries to distract Mr. Braun}
 [01:21] Hacking to the Gate (first verse) {[Opening]}
-[04:17] D-Mail {Kurisu thinks about time leap}
-[05:46] Akihabara (remix) {Mayuri is doubtful about time leap}
+[04:17] D-Mail {Kurisu thinks about the time leap}
+[05:46] Akihabara (remix) {Mayuri is concerned about the time leap}
 [07:40] Experiment {Okabe and Mayuri meet Moeka}
 [10:11] Disquiet {"Kurisu works for SERN"}
-[11:59] Explanation {Kurisu hesitates to test time leap}
+[11:59] Explanation {Kurisu is hesitant about testing the time leap}
 [12:50] Believe Me {Kurisu tells Okabe about her relationship with her father}
-[15:26] Tender Affection (from 0:15) {Okabe wants to help Kurisu}
+[15:26] Tender affection (from 0:15) {Okabe wants to help Kurisu reconcile with her father}
 [19:07] Event {"You know too much"}
-[21:25] Confrontation with Fear {Their pc is connected to SERN...}
+[21:25] Confrontation with fear {The lab PC is connected to SERN}
 [22:10] The Twelve Laws that Govern Time {[Ending]}
 [23:40] Event {[Preview]}

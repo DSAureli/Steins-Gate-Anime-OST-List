@@ -1,10 +1,10 @@
-﻿[00:00] Experiment {"World War III???"}
+[00:00] Experiment {"World War III?"}
 [01:46] Hacking to the Gate (second verse) {[Opening]}
-[03:16] Suspicious Eyes {Suzuha tells Okabe about the Steins;Gate}
-[06:52] Tubes {Okabe goes to the past}
-[09:59] Time Leap {Kurisu and her father}
+[03:16] Suspicious eyes {Suzuha tells Okabe about the Steins Gate}
+[06:52] Tubes {Okabe travels to the past}
+[09:59] Timeleap {Kurisu meets with her father}
 [11:48] Dependency (from 0:17) {Okabe fights Kurisu's father}
-[13:04] Time Leap {Kurisu dies}
-[14:35] Event {Okabe is about to give up}
+[13:04] Timeleap {Kurisu dies}
+[14:35] Event {Okabe is about to give up saving Kurisu}
 [19:47] Back Home {Okabe gets a phone call}
 [21:17] The Twelve Laws that Govern Time {Nothing has changed [Ending]}

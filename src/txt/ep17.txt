@@ -1,13 +1,13 @@
-﻿[00:00] Gate of Steiner -piano- {"Yesterday nothing happened..."}
+[00:00] Gate of steiner -piano- {"Yesterday nothing happened..."}
 [00:46] Hacking to the Gate (first verse) {[Opening]}
-[02:17] Butterfly Effect (remix) {Kurisu on the roof gets to the point}
+[02:17] Butterfly effect (remix) {Okabe asks Kurisu for help}
 [03:55] Christina I {Okabe thanks Kurisu}
-[05:23] Network Battle (bgm, from 1:00) {Okabe calls Daru to know where Feyris is}
-[05:46] Network Battle (from 1:23) {Okabe goes to the UPX complex to meet Feyris}
-[05:56] Crossroads {Okabe and Feyris being chased}
-[07:32] Crossroads (reprise) {They being chased again}
-[13:23] Farewell {Feyris' father tells Okabe about her kidnapping}
-[17:45] ? (One of Selection -Gate of Steiner- pad version?, one octave below) {Feyris accepts to revert her D-Mail effects}
-[20:43] Observer {Feyris' D-Mail effects are canceled}
+[05:23] Network battle (bgm, from 1:00) {Okabe phones Daru and asks him where Faris is}
+[05:46] Network battle (from 1:23) {Okabe goes to the UPX building to meet Faris}
+[05:56] Crossroads {Okabe and Faris being chased}
+[07:32] Crossroads (reprise) {Okabe and Faris being chased again}
+[13:23] Farewell {Faris's father tells Okabe about her kidnapping}
+[17:45] ? (unreleased version of One of selection -Gate of steiner-) {Faris agrees to undo her D-Mail}
+[20:43] Observer {Faris's D-Mail is undone}
 [22:10] The Twelve Laws that Govern Time {[Ending]}
-[23:40] Tender Affection {[Preview]}
+[23:40] Tender affection {[Preview]}

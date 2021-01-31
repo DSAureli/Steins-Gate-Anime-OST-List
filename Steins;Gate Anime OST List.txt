@@ -1,0 +1,3277 @@
+{| class="article-table mw-collapsible mw-collapsed"
+|+ class="nowrap" |Per-episode
+|-
+! style="text-align: center;" |Ep
+! style="text-align: center;" |Time
+! style="text-align: center;" |Track
+! style="text-align: center;" |Comment
+! style="text-align: center;" |Scene
+|-
+| rowspan="6" style="text-align: center;" |01
+| style="text-align: center;" |07:33
+| style="text-align: center;" |Confrontation with fear
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe finds Kurisu's body
+|-
+| style="text-align: center;" |10:33
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |14:46
+| style="text-align: center;" |Silence eyes
+| style="text-align: center;" |
+| style="text-align: center;" |News about the satellite
+|-
+| style="text-align: center;" |21:43
+| style="text-align: center;" |Gate of steiner
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe finds out he has sent an email to the past
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Akihabara
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="10" style="text-align: center;" |02
+| style="text-align: center;" |00:18
+| style="text-align: center;" |Disquiet
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu is alive
+|-
+| style="text-align: center;" |01:14
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |07:34
+| style="text-align: center;" |Back Home
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Mayuri walk back home
+|-
+| style="text-align: center;" |10:45
+| style="text-align: center;" |Experiment
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe searches for information about the satellite
+|-
+| style="text-align: center;" |11:26
+| style="text-align: center;" |John Titor
+| style="text-align: center;" |
+| style="text-align: center;" |John Titor introduces himself
+|-
+| style="text-align: center;" |13:21
+| style="text-align: center;" |Okarin's suspense
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe can't find any information about John Titor
+|-
+| style="text-align: center;" |14:10
+| style="text-align: center;" |Akihabara
+| style="text-align: center;" |
+| style="text-align: center;" |Titor never visited the year 2000
+|-
+| style="text-align: center;" |21:31
+| style="text-align: center;" |Event
+| style="text-align: center;" |
+| style="text-align: center;" |The banana is back in the bunch
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |D-Mail
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="8" style="text-align: center;" |03
+| style="text-align: center;" |01:37
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |03:35
+| style="text-align: center;" |Tottery
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu tastes the gel-nana
+|-
+| style="text-align: center;" |09:25
+| style="text-align: center;" |Adrenaline
+| style="text-align: center;" |remix
+| style="text-align: center;" |"This humble kitchen appliance is... a time machine!"
+|-
+| style="text-align: center;" |11:47
+| style="text-align: center;" |Experiment
+| style="text-align: center;" |
+| style="text-align: center;" |LHC
+|-
+| style="text-align: center;" |16:20
+| style="text-align: center;" |John Titor
+| style="text-align: center;" |
+| style="text-align: center;" |John Titor explains what the divergence is
+|-
+| style="text-align: center;" |21:23
+| style="text-align: center;" |Disquiet
+| style="text-align: center;" |
+| style="text-align: center;" |"Human is Dead, mismatch."
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |No joke!
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="12" style="text-align: center;" |04
+| style="text-align: center;" |00:00
+| style="text-align: center;" |Disquiet
+| style="text-align: center;" |
+| style="text-align: center;" |"Human is Dead, mismatch."
+|-
+| style="text-align: center;" |01:34
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |03:09
+| style="text-align: center;" |Lab-members
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri and Suzuha
+|-
+| style="text-align: center;" |04:54
+| style="text-align: center;" |Promise -piano-
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri's "Shaking Hands with Stardust"
+|-
+| style="text-align: center;" |06:16
+| style="text-align: center;" |Adrenaline
+| style="text-align: center;" |
+| style="text-align: center;" |They need an IBN 5100
+|-
+| style="text-align: center;" |12:11
+| style="text-align: center;" |Event
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe tells Kurisu about SERN's secret plot
+|-
+| style="text-align: center;" |13:21
+| style="text-align: center;" |Confrontation with fear
+| style="text-align: center;" |
+| style="text-align: center;" |Faris knows something about the IBN 5100
+|-
+| style="text-align: center;" |13:36
+| style="text-align: center;" |ワタシ☆LOVEな☆オトメ!
+| style="text-align: center;" |from 0:10
+| style="text-align: center;" |Faris Cup
+|-
+| style="text-align: center;" |14:59
+| style="text-align: center;" |Operation G-BACK
+| style="text-align: center;" |
+| style="text-align: center;" |Rai-Net Access Battlers match
+|-
+| style="text-align: center;" |21:30
+| style="text-align: center;" |Science Of The Strings
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Kurisu carry the IBN 5100
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Science Of The Strings
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="9" style="text-align: center;" |05
+| style="text-align: center;" |01:56
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |07:29
+| style="text-align: center;" |Suzuha
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha apologizes for her behavior towards Kurisu
+|-
+| style="text-align: center;" |10:01
+| style="text-align: center;" |Lab-members
+| style="text-align: center;" |
+| style="text-align: center;" |Daru is repairing the IBN 5100, Kurisu wears the lab coat
+|-
+| style="text-align: center;" |12:52
+| style="text-align: center;" |Teenager's tango
+| style="text-align: center;" |
+| style="text-align: center;" |"My name is Hououin!"
+|-
+| style="text-align: center;" |14:36
+| style="text-align: center;" |@Channel
+| style="text-align: center;" |
+| style="text-align: center;" |Daru repairs the IBN 5100
+|-
+| style="text-align: center;" |18:35
+| style="text-align: center;" |Silence eyes
+| style="text-align: center;" |
+| style="text-align: center;" |Jellyman's report
+|-
+| style="text-align: center;" |21:41
+| style="text-align: center;" |Gate of steiner -piano-
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe plans to create a real time machine
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Adrenaline
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="10" style="text-align: center;" |06
+| style="text-align: center;" |01:05
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |06:05
+| style="text-align: center;" |Tottery
+| style="text-align: center;" |
+| style="text-align: center;" |They name the D-Mails
+|-
+| style="text-align: center;" |08:16
+| style="text-align: center;" |Science Of The Strings
+| style="text-align: center;" |
+| style="text-align: center;" |D-Mail/banana test
+|-
+| style="text-align: center;" |11:17
+| style="text-align: center;" |Event
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe is starting to feel frightened
+|-
+| style="text-align: center;" |14:57
+| style="text-align: center;" |D-Mail
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu explains how D-Mails work
+|-
+| style="text-align: center;" |16:24
+| style="text-align: center;" |Gate of steiner -piano-
+| style="text-align: center;" |from 2:06
+| style="text-align: center;" |Okabe dreams of being sucked into a black hole
+|-
+| style="text-align: center;" |19:16
+| style="text-align: center;" |@Channel
+| style="text-align: center;" |
+| style="text-align: center;" |Moeka inspects the IBN 5100
+|-
+| style="text-align: center;" |21:33
+| style="text-align: center;" |Event
+| style="text-align: center;" |
+| style="text-align: center;" |"Are you FB?"
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Experiment
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="13" style="text-align: center;" |07
+| style="text-align: center;" |00:21
+| style="text-align: center;" |Future Gadget Lab
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe unhinges the microwave door
+|-
+| style="text-align: center;" |01:56
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |05:11
+| style="text-align: center;" |Tottery
+| style="text-align: center;" |
+| style="text-align: center;" |They discuss about the lottery D-Mail
+|-
+| style="text-align: center;" |07:08
+| style="text-align: center;" |Cold eyes
+| style="text-align: center;" |
+| style="text-align: center;" |Choosing the lottery prize
+|-
+| style="text-align: center;" |07:33
+| style="text-align: center;" |Lab-members
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri shows Moeka around the lab
+|-
+| style="text-align: center;" |11:37
+| style="text-align: center;" |Disquiet
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka brings Okabe the lottery ticket
+|-
+| style="text-align: center;" |12:30
+| style="text-align: center;" |Silence eyes
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe realizes he's the only one to remember the previous world lines
+|-
+| style="text-align: center;" |15:02
+| style="text-align: center;" |Experiment
+| style="text-align: center;" |
+| style="text-align: center;" |"Why not try hitting up ol' John Titor for advice?"
+|-
+| style="text-align: center;" |19:09
+| style="text-align: center;" |Tender affection
+| style="text-align: center;" |from 1:22
+| style="text-align: center;" |Mayuri phones Okabe
+|-
+| style="text-align: center;" |19:49
+| style="text-align: center;" |John Titor
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and John Titor exchange emails
+|-
+| style="text-align: center;" |21:24
+| style="text-align: center;" |Gate of steiner -piano-
+| style="text-align: center;" |from 1:22
+| style="text-align: center;" |"Kyouma, I ask you to be our savior"
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Future Gadget Lab
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="14" style="text-align: center;" |08
+| style="text-align: center;" |00:00
+| style="text-align: center;" |Gate of steiner -piano-
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe goes completely mad
+|-
+| style="text-align: center;" |00:39
+| style="text-align: center;" |Experiment
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe tells Daru and Kurisu that the D-Mail was successful
+|-
+| style="text-align: center;" |01:45
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |08:46
+| style="text-align: center;" |Lab-members
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka brings a watermelon
+|-
+| style="text-align: center;" |10:37
+| style="text-align: center;" |Disquiet
+| style="text-align: center;" |
+| style="text-align: center;" |Moeka has disappeared
+|-
+| style="text-align: center;" |13:32
+| style="text-align: center;" |Teenager's tango
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka's cosplay
+|-
+| style="text-align: center;" |14:31
+| style="text-align: center;" |Akihabara
+| style="text-align: center;" |vocals only, from 0:23
+| style="text-align: center;" |Okabe is charmed by a cosplaying Ruka
+|-
+| style="text-align: center;" |14:52
+| style="text-align: center;" |Akihabara
+| style="text-align: center;" |vocals only, from 0:23
+| style="text-align: center;" |Kurisu is charmed by a cosplaying Ruka
+|-
+| style="text-align: center;" |15:44
+| style="text-align: center;" |Experiment
+| style="text-align: center;" |lead only, from 1:04
+| style="text-align: center;" |Ruka knows the existence of the D-Mails
+|-
+| style="text-align: center;" |16:23
+| style="text-align: center;" |Experiment
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka wants to send a D-Mail
+|-
+| style="text-align: center;" |18:11
+| style="text-align: center;" |Science Of The Strings
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe suggests sending the D-Mail to a pager
+|-
+| style="text-align: center;" |21:03
+| style="text-align: center;" |Event
+| style="text-align: center;" |remix
+| style="text-align: center;" |Is Ruka a girl now?
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |@Channel
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="12" style="text-align: center;" |09
+| style="text-align: center;" |00:59
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |05:12
+| style="text-align: center;" |Lab-members
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri in school uniform
+|-
+| style="text-align: center;" |06:32
+| style="text-align: center;" |D-Mail
+| style="text-align: center;" |
+| style="text-align: center;" |Discussion about physical time travel
+|-
+| style="text-align: center;" |08:20
+| style="text-align: center;" |Silence eyes
+| style="text-align: center;" |
+| style="text-align: center;" |The IBN 5100 has disappeared
+|-
+| style="text-align: center;" |09:27
+| style="text-align: center;" |Experiment
+| style="text-align: center;" |remix, from 1:04
+| style="text-align: center;" |Kurisu explains the "butterfly effect"
+|-
+| style="text-align: center;" |12:44
+| style="text-align: center;" |Confrontation with fear
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe sees Moeka in the streets
+|-
+| style="text-align: center;" |14:24
+| style="text-align: center;" |Event
+| style="text-align: center;" |
+| style="text-align: center;" |How does Mayuri know Moeka?
+|-
+| style="text-align: center;" |18:50
+| style="text-align: center;" |Tottery
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu hangs up on Okabe
+|-
+| style="text-align: center;" |20:12
+| style="text-align: center;" |Disquiet
+| style="text-align: center;" |
+| style="text-align: center;" |Faris is hesitant to send the D-Mail
+|-
+| style="text-align: center;" |20:39
+| style="text-align: center;" |Event
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe meets Faris's father
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |The city has changed [Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |John Titor
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="13" style="text-align: center;" |10
+| style="text-align: center;" |00:00
+| style="text-align: center;" |Akihabara
+| style="text-align: center;" |remix, from 0:35
+| style="text-align: center;" |The city has changed
+|-
+| style="text-align: center;" |00:52
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |03:38
+| style="text-align: center;" |Lab-members
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri suggests spending a day at the beach
+|-
+| style="text-align: center;" |04:50
+| style="text-align: center;" |Walking on sleeping
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka is a girl
+|-
+| style="text-align: center;" |06:57
+| style="text-align: center;" |Suzuha
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha is searching for her father
+|-
+| style="text-align: center;" |08:35
+| style="text-align: center;" |Quiet air
+| style="text-align: center;" |from 1:04
+| style="text-align: center;" |Okabe wants to help Suzuha find her father
+|-
+| style="text-align: center;" |10:42
+| style="text-align: center;" |Confrontation with fear
+| style="text-align: center;" |
+| style="text-align: center;" |"I'm watching you"
+|-
+| style="text-align: center;" |12:19
+| style="text-align: center;" |Back Home
+| style="text-align: center;" |
+| style="text-align: center;" |Flashback of Okabe's illness
+|-
+| style="text-align: center;" |13:55
+| style="text-align: center;" |No joke!
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu's cooking
+|-
+| style="text-align: center;" |16:52
+| style="text-align: center;" |Promise -piano-
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu feels at home in the lab
+|-
+| style="text-align: center;" |19:27
+| style="text-align: center;" |Gate of steiner -piano-
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha has left
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Disquiet
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="13" style="text-align: center;" |11
+| style="text-align: center;" |00:25
+| style="text-align: center;" |Run away!
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha tries to distract Mr. Braun
+|-
+| style="text-align: center;" |01:21
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |04:17
+| style="text-align: center;" |D-Mail
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu thinks about the time leap
+|-
+| style="text-align: center;" |05:46
+| style="text-align: center;" |Akihabara
+| style="text-align: center;" |remix
+| style="text-align: center;" |Mayuri is concerned about the time leap
+|-
+| style="text-align: center;" |07:40
+| style="text-align: center;" |Experiment
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Mayuri meet Moeka
+|-
+| style="text-align: center;" |10:11
+| style="text-align: center;" |Disquiet
+| style="text-align: center;" |
+| style="text-align: center;" |"Kurisu works for SERN"
+|-
+| style="text-align: center;" |11:59
+| style="text-align: center;" |Explanation
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu is hesitant about testing the time leap
+|-
+| style="text-align: center;" |12:50
+| style="text-align: center;" |Believe Me
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu tells Okabe about her relationship with her father
+|-
+| style="text-align: center;" |15:26
+| style="text-align: center;" |Tender affection
+| style="text-align: center;" |from 0:15
+| style="text-align: center;" |Okabe wants to help Kurisu reconcile with her father
+|-
+| style="text-align: center;" |19:07
+| style="text-align: center;" |Event
+| style="text-align: center;" |
+| style="text-align: center;" |"You know too much"
+|-
+| style="text-align: center;" |21:25
+| style="text-align: center;" |Confrontation with fear
+| style="text-align: center;" |
+| style="text-align: center;" |The lab PC is connected to SERN
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Event
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="10" style="text-align: center;" |12
+| style="text-align: center;" |01:47
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |04:08
+| style="text-align: center;" |Explanation
+| style="text-align: center;" |
+| style="text-align: center;" |The Time Leap Machine is ready
+|-
+| style="text-align: center;" |09:06
+| style="text-align: center;" |Tender affection
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Kurisu awkward scene
+|-
+| style="text-align: center;" |11:44
+| style="text-align: center;" |Adrenaline
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha vs Kurisu
+|-
+| style="text-align: center;" |13:37
+| style="text-align: center;" |Labordinary
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha plays Rai-Net
+|-
+| style="text-align: center;" |17:22
+| style="text-align: center;" |Promise -piano-
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Mayuri talk on the roof
+|-
+| style="text-align: center;" |18:47
+| style="text-align: center;" |Event
+| style="text-align: center;" |
+| style="text-align: center;" |Time has stopped
+|-
+| style="text-align: center;" |19:48
+| style="text-align: center;" |Confrontation
+| style="text-align: center;" |
+| style="text-align: center;" |The Rounders burst into the lab
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Suzuha
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="16" style="text-align: center;" |13
+| style="text-align: center;" |00:00
+| style="text-align: center;" |Confrontation
+| style="text-align: center;" |
+| style="text-align: center;" |"The little one isn't needed"
+|-
+| style="text-align: center;" |01:47
+| style="text-align: center;" |?
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha knocks the Rounders out
+|-
+| style="text-align: center;" |02:25
+| style="text-align: center;" |Butterfly effect
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe leaps back in time
+|-
+| style="text-align: center;" |02:57
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |05:26
+| style="text-align: center;" |Promise
+| style="text-align: center;" |
+| style="text-align: center;" |Flashback of Mayuri and Okabe in the graveyard
+|-
+| style="text-align: center;" |06:37
+| style="text-align: center;" |August 13 -Explanation-
+| style="text-align: center;" |slowed down
+| style="text-align: center;" |The time leap succeeded
+|-
+| style="text-align: center;" |08:20
+| style="text-align: center;" |Experiment
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe is searching for Mayuri
+|-
+| style="text-align: center;" |11:48
+| style="text-align: center;" |Believe Me
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri is sad
+|-
+| style="text-align: center;" |13:08
+| style="text-align: center;" |Confrontation
+| style="text-align: center;" |
+| style="text-align: center;" |Rounders, again
+|-
+| style="text-align: center;" |13:54
+| style="text-align: center;" |Gate of steiner
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri dies, again
+|-
+| style="text-align: center;" |14:36
+| style="text-align: center;" |August 13 -Explanation-
+| style="text-align: center;" |slowed down
+| style="text-align: center;" |Okabe leaps back in time, again
+|-
+| style="text-align: center;" |16:10
+| style="text-align: center;" |Akihabara
+| style="text-align: center;" |remix
+| style="text-align: center;" |Okabe meets Mayuri at the temple
+|-
+| style="text-align: center;" |18:24
+| style="text-align: center;" |Disquiet
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe tries to escape with Mayuri
+|-
+| style="text-align: center;" |20:36
+| style="text-align: center;" |Confrontation
+| style="text-align: center;" |remix, from 1:10
+| style="text-align: center;" |Nae stumbles into Mayuri
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Silence eyes
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="16" style="text-align: center;" |14
+| style="text-align: center;" |00:00
+| style="text-align: center;" |Butterfly effect
+| style="text-align: center;" |remix, from 1:12
+| style="text-align: center;" |Okabe tried to save Mayuri many times
+|-
+| style="text-align: center;" |00:12
+| style="text-align: center;" |Back Home
+| style="text-align: center;" |distorted remix, played together with Butterfly effect
+| style="text-align: center;" |Okabe tried to save Mayuri many times
+|-
+| style="text-align: center;" |01:15
+| style="text-align: center;" |Butterfly effect
+| style="text-align: center;" |
+| style="text-align: center;" |Moeka shoots Mayuri to death... again
+|-
+| style="text-align: center;" |02:18
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |03:48
+| style="text-align: center;" |August 13 -Explanation-
+| style="text-align: center;" |remix, slowed down
+| style="text-align: center;" |Okabe kicks Kurisu and Daru out of the lab
+|-
+| style="text-align: center;" |04:52
+| style="text-align: center;" |Confrontation
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe interrogates Moeka about the Rounders
+|-
+| style="text-align: center;" |08:35
+| style="text-align: center;" |Butterfly effect
+| style="text-align: center;" |remix, from 1:12
+| style="text-align: center;" |Okabe sees Mayuri shot to death
+|-
+| style="text-align: center;" |08:52
+| style="text-align: center;" |August 13 -Explanation-
+| style="text-align: center;" |remix, slowed down
+| style="text-align: center;" |Okabe can't take it anymore
+|-
+| style="text-align: center;" |12:05
+| style="text-align: center;" |Christina I
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu cheers Okabe up
+|-
+| style="text-align: center;" |12:52
+| style="text-align: center;" |Hack -short vision-
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu makes a plan
+|-
+| style="text-align: center;" |14:18
+| style="text-align: center;" |August 13 -Explanation-
+| style="text-align: center;" |remix, slowed down
+| style="text-align: center;" |Putting the plan into action
+|-
+| style="text-align: center;" |17:04
+| style="text-align: center;" |D-Mail
+| style="text-align: center;" |remix
+| style="text-align: center;" |Making another plan
+|-
+| style="text-align: center;" |18:55
+| style="text-align: center;" |Tubes
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha's explanation about world lines
+|-
+| style="text-align: center;" |21:52
+| style="text-align: center;" |Self affirmation
+| style="text-align: center;" |from 2:36
+| style="text-align: center;" |Suzuha is John Titor
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Okarin's suspense
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="15" style="text-align: center;" |15
+| style="text-align: center;" |00:00
+| style="text-align: center;" |Self affirmation
+| style="text-align: center;" |from 2:36
+| style="text-align: center;" |Suzuha is John Titor
+|-
+| style="text-align: center;" |00:16
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |01:51
+| style="text-align: center;" |Menace
+| style="text-align: center;" |remix
+| style="text-align: center;" |SERN's dystopia flash...forward
+|-
+| style="text-align: center;" |03:54
+| style="text-align: center;" |Tubes
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha tells Okabe and Kurisu their future
+|-
+| style="text-align: center;" |06:54
+| style="text-align: center;" |Adrenaline
+| style="text-align: center;" |remix
+| style="text-align: center;" |Chased by cops
+|-
+| style="text-align: center;" |08:01
+| style="text-align: center;" |Disquiet
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe apologizes for having stopped Suzuha from leaving
+|-
+| style="text-align: center;" |10:18
+| style="text-align: center;" |August 13 -Explanation-
+| style="text-align: center;" |remix
+| style="text-align: center;" |Double time leap
+|-
+| style="text-align: center;" |13:04
+| style="text-align: center;" |Suzuha
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha talks to Daru about her father
+|-
+| style="text-align: center;" |15:00
+| style="text-align: center;" |Tubes
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha gives Okabe the divergence meter
+|-
+| style="text-align: center;" |16:07
+| style="text-align: center;" |Tottery
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Suzuha search for information about the pin badge
+|-
+| style="text-align: center;" |18:09
+| style="text-align: center;" |Labordinary
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri is handing out flyers
+|-
+| style="text-align: center;" |20:39
+| style="text-align: center;" |Farewell
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha thanks Okabe
+|-
+| style="text-align: center;" |22:00
+| style="text-align: center;" |Farewell
+| style="text-align: center;" |reprise
+| style="text-align: center;" |The street vendor found Suzuha's father?
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Experiment
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="13" style="text-align: center;" |16
+| style="text-align: center;" |00:00
+| style="text-align: center;" |Okarin's suspense
+| style="text-align: center;" |
+| style="text-align: center;" |"He looked just like a barrel"
+|-
+| style="text-align: center;" |01:24
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |03:02
+| style="text-align: center;" |August 13 -Explanation-
+| style="text-align: center;" |remix, slowed down
+| style="text-align: center;" |Okabe finds out who ordered the pins
+|-
+| style="text-align: center;" |05:03
+| style="text-align: center;" |Suzuha
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha thanks Okabe again
+|-
+| style="text-align: center;" |06:05
+| style="text-align: center;" |Gate of steiner -piano-
+| style="text-align: center;" |from 2:32
+| style="text-align: center;" |Okabe swears to Suzuha he will change the future
+|-
+| style="text-align: center;" |07:29
+| style="text-align: center;" |Tender affection
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha is about to leave
+|-
+| style="text-align: center;" |09:50
+| style="text-align: center;" |Farewell
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri finds Suzuha's father, Suzuha leaves
+|-
+| style="text-align: center;" |14:26
+| style="text-align: center;" |Farewell
+| style="text-align: center;" |strings only
+| style="text-align: center;" |Suzuha's letter
+|-
+| style="text-align: center;" |17:32
+| style="text-align: center;" |Believe Me
+| style="text-align: center;" |
+| style="text-align: center;" |Mr. Braun tells them about Suzuha's death
+|-
+| style="text-align: center;" |19:35
+| style="text-align: center;" |Farewell
+| style="text-align: center;" |piano only
+| style="text-align: center;" |Mr. Braun talks about Suzuha in the new world line
+|-
+| style="text-align: center;" |21:15
+| style="text-align: center;" |Butterfly effect
+| style="text-align: center;" |
+| style="text-align: center;" |Yamanote line is open
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Back Home
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="13" style="text-align: center;" |17
+| style="text-align: center;" |00:00
+| style="text-align: center;" |Gate of steiner -piano-
+| style="text-align: center;" |
+| style="text-align: center;" |"Yesterday nothing happened..."
+|-
+| style="text-align: center;" |00:46
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |02:17
+| style="text-align: center;" |Butterfly effect
+| style="text-align: center;" |remix
+| style="text-align: center;" |Okabe asks Kurisu for help
+|-
+| style="text-align: center;" |03:55
+| style="text-align: center;" |Christina I
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe thanks Kurisu
+|-
+| style="text-align: center;" |05:23
+| style="text-align: center;" |Network battle
+| style="text-align: center;" |bgm, from 1:00
+| style="text-align: center;" |Okabe phones Daru and asks him where Faris is
+|-
+| style="text-align: center;" |05:46
+| style="text-align: center;" |Network battle
+| style="text-align: center;" |from 1:23
+| style="text-align: center;" |Okabe goes to the UPX building to meet Faris
+|-
+| style="text-align: center;" |05:56
+| style="text-align: center;" |Crossroads
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Faris being chased
+|-
+| style="text-align: center;" |07:32
+| style="text-align: center;" |Crossroads
+| style="text-align: center;" |reprise
+| style="text-align: center;" |Okabe and Faris being chased again
+|-
+| style="text-align: center;" |13:23
+| style="text-align: center;" |Farewell
+| style="text-align: center;" |
+| style="text-align: center;" |Faris's father tells Okabe about her kidnapping
+|-
+| style="text-align: center;" |17:45
+| style="text-align: center;" |?
+| style="text-align: center;" |unreleased version of One of selection -Gate of steiner-
+| style="text-align: center;" |Faris agrees to undo her D-Mail
+|-
+| style="text-align: center;" |20:43
+| style="text-align: center;" |Observer
+| style="text-align: center;" |
+| style="text-align: center;" |Faris's D-Mail is undone
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Tender affection
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="12" style="text-align: center;" |18
+| style="text-align: center;" |00:33
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |02:14
+| style="text-align: center;" |Labordinary
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe made Ruka cry again
+|-
+| style="text-align: center;" |04:41
+| style="text-align: center;" |Quiet air
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka crying
+|-
+| style="text-align: center;" |05:24
+| style="text-align: center;" |Warmth of days -Promise-
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka wants to go on a date with Okabe
+|-
+| style="text-align: center;" |07:45
+| style="text-align: center;" |Tottery
+| style="text-align: center;" |
+| style="text-align: center;" |Tsundere Kurisu
+|-
+| style="text-align: center;" |09:40
+| style="text-align: center;" |Noisy times
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu tries to help Okabe with the date
+|-
+| style="text-align: center;" |15:27
+| style="text-align: center;" |Promise -piano-
+| style="text-align: center;" |
+| style="text-align: center;" |Flashback of Okabe and Ruka's first meeting
+|-
+| style="text-align: center;" |17:06
+| style="text-align: center;" |Farewell
+| style="text-align: center;" |piano only
+| style="text-align: center;" |They are about to undo Ruka's D-Mail
+|-
+| style="text-align: center;" |19:35
+| style="text-align: center;" |One of selection -Gate of steiner-
+| style="text-align: center;" |version in 'GATE OF STEINER 10th Anniversary'
+| style="text-align: center;" |Ruka confesses her feelings to Okabe
+|-
+| style="text-align: center;" |21:31
+| style="text-align: center;" |Observer
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka is back to being a boy
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Confrontation with fear
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="12" style="text-align: center;" |19
+| style="text-align: center;" |00:32
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |02:55
+| style="text-align: center;" |Butterfly effect
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe explains the situation to Kurisu
+|-
+| style="text-align: center;" |06:03
+| style="text-align: center;" |Timeleap
+| style="text-align: center;" |
+| style="text-align: center;" |Moeka killed herself
+|-
+| style="text-align: center;" |08:20
+| style="text-align: center;" |Dependency
+| style="text-align: center;" |remix, without bass
+| style="text-align: center;" |Moeka is having a mental breakdown
+|-
+| style="text-align: center;" |10:17
+| style="text-align: center;" |Menace
+| style="text-align: center;" |
+| style="text-align: center;" |"Give it back!"
+|-
+| style="text-align: center;" |11:19
+| style="text-align: center;" |Disquiet
+| style="text-align: center;" |
+| style="text-align: center;" |Reading Steiner doesn't kick in
+|-
+| style="text-align: center;" |12:34
+| style="text-align: center;" |Menace
+| style="text-align: center;" |
+| style="text-align: center;" |Moeka tries to break down the door
+|-
+| style="text-align: center;" |14:13
+| style="text-align: center;" |Dependency
+| style="text-align: center;" |from 1:03
+| style="text-align: center;" |Moeka can't betray FB
+|-
+| style="text-align: center;" |15:52
+| style="text-align: center;" |Silence eyes
+| style="text-align: center;" |
+| style="text-align: center;" |FB recruited Moeka
+|-
+| style="text-align: center;" |20:15
+| style="text-align: center;" |Confrontation
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe is not able to undo Moeka's D-Mail
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Silence eyes
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="14" style="text-align: center;" |20
+| style="text-align: center;" |00:00
+| style="text-align: center;" |Confrontation
+| style="text-align: center;" |
+| style="text-align: center;" |Moeka decides to help Okabe
+|-
+| style="text-align: center;" |00:50
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |02:49
+| style="text-align: center;" |Christina I
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu has a plan for retrieving the IBN 5100
+|-
+| style="text-align: center;" |05:14
+| style="text-align: center;" |Promise -piano-
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri feels distant from Okabe
+|-
+| style="text-align: center;" |07:16
+| style="text-align: center;" |Observer
+| style="text-align: center;" |from 2:14
+| style="text-align: center;" |M4 is Moeka's code name
+|-
+| style="text-align: center;" |08:04
+| style="text-align: center;" |Timeleap
+| style="text-align: center;" |
+| style="text-align: center;" |Someone retrieves the IBN 5100 from the coin locker
+|-
+| style="text-align: center;" |11:56
+| style="text-align: center;" |Okarin's suspense
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe wants to question Mr. Braun
+|-
+| style="text-align: center;" |13:18
+| style="text-align: center;" |Observer
+| style="text-align: center;" |from 2:14
+| style="text-align: center;" |"Couldn't keep your trap shut--huh, M4?"
+|-
+| style="text-align: center;" |15:33
+| style="text-align: center;" |Farewell
+| style="text-align: center;" |
+| style="text-align: center;" |Mr. Braun tells his story
+|-
+| style="text-align: center;" |18:34
+| style="text-align: center;" |Observer
+| style="text-align: center;" |from 2:14
+| style="text-align: center;" |Moeka's last words
+|-
+| style="text-align: center;" |20:08
+| style="text-align: center;" |Tubes
+| style="text-align: center;" |
+| style="text-align: center;" |Daru hacks SERN's database to delete the first D-Mail
+|-
+| style="text-align: center;" |21:31
+| style="text-align: center;" |Gate of steiner
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe remembers the content of the first D-Mail
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Promise
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="15" style="text-align: center;" |21
+| style="text-align: center;" |00:00
+| style="text-align: center;" |Event
+| style="text-align: center;" |
+| style="text-align: center;" |The hacking is canceled
+|-
+| style="text-align: center;" |00:18
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |03:04
+| style="text-align: center;" |Observer
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Mayuri at the Comic Market
+|-
+| style="text-align: center;" |04:28
+| style="text-align: center;" |Observer
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe wants to save Mayuri without changing world line
+|-
+| style="text-align: center;" |05:19
+| style="text-align: center;" |Christina I
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu wants to help Okabe save Mayuri
+|-
+| style="text-align: center;" |07:36
+| style="text-align: center;" |Back Home
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri thanks Okabe for the day at Comic Market
+|-
+| style="text-align: center;" |08:55
+| style="text-align: center;" |Select of sorrow
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe tries to sacrifice himself to save Mayuri
+|-
+| style="text-align: center;" |09:41
+| style="text-align: center;" |Confrontation
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri dies again
+|-
+| style="text-align: center;" |10:20
+| style="text-align: center;" |One of selection -Gate of steiner-
+| style="text-align: center;" |version in 'STEINS;GATE Future Gadget Compact Disc 8 Soundtrack II "Event Horizon"'
+| style="text-align: center;" |"You can't see any stars from here, right Mayuri?"
+|-
+| style="text-align: center;" |11:09
+| style="text-align: center;" |Observer
+| style="text-align: center;" |from 0:36
+| style="text-align: center;" |Kurisu wants to talk to Okabe
+|-
+| style="text-align: center;" |12:58
+| style="text-align: center;" |Farewell
+| style="text-align: center;" |from 1:27, strings only
+| style="text-align: center;" |Okabe reveals what happens if they undo the first D-Mail
+|-
+| style="text-align: center;" |18:14
+| style="text-align: center;" |Promise
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri recalls her first day at the lab
+|-
+| style="text-align: center;" |21:47
+| style="text-align: center;" |Timeleap
+| style="text-align: center;" |
+| style="text-align: center;" |Does Kurisu remember something?
+|-
+| style="text-align: center;" |22:10
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Promise -piano-
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="14" style="text-align: center;" |22
+| style="text-align: center;" |00:12
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |03:46
+| style="text-align: center;" |Tender affection
+| style="text-align: center;" |from 0:15
+| style="text-align: center;" |Kurisu mends Okabe's lab coat
+|-
+| style="text-align: center;" |05:18
+| style="text-align: center;" |Timeleap
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu has a glimpse of Reading Steiner
+|-
+| style="text-align: center;" |07:02
+| style="text-align: center;" |Christina I
+| style="text-align: center;" |from 1:09
+| style="text-align: center;" |Kurisu accepts her fate
+|-
+| style="text-align: center;" |08:53
+| style="text-align: center;" |Believe Me
+| style="text-align: center;" |
+| style="text-align: center;" |"...then your heart is already broken"
+|-
+| style="text-align: center;" |10:51
+| style="text-align: center;" |Christina II
+| style="text-align: center;" |without strings
+| style="text-align: center;" |Okabe hugs Kurisu
+|-
+| style="text-align: center;" |11:59
+| style="text-align: center;" |Christina II
+| style="text-align: center;" |without glockenspiel, from 0:17
+| style="text-align: center;" |"So long as you remember me... I'll still be right there... with you"
+|-
+| style="text-align: center;" |12:51
+| style="text-align: center;" |Christina II
+| style="text-align: center;" |from 0:17, a bit different in structure
+| style="text-align: center;" |Okabe and Kurisu kiss
+|-
+| style="text-align: center;" |15:26
+| style="text-align: center;" |Christina II
+| style="text-align: center;" |from 1:44
+| style="text-align: center;" |They kiss again
+|-
+| style="text-align: center;" |17:19
+| style="text-align: center;" |Promise
+| style="text-align: center;" |
+| style="text-align: center;" |"Sayonara"
+|-
+| style="text-align: center;" |19:50
+| style="text-align: center;" |Farewell
+| style="text-align: center;" |from 1:27, without piano
+| style="text-align: center;" |The first D-Mail is deleted
+|-
+| style="text-align: center;" |21:45
+| style="text-align: center;" |Fake Verthandi
+| style="text-align: center;" |intro
+| style="text-align: center;" |"This is for the best... isn't it... Kurisu?"
+|-
+| style="text-align: center;" |22:12
+| style="text-align: center;" |Gate of steiner
+| style="text-align: center;" |without drums, from 0:26
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Believe Me
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="12" style="text-align: center;" |23
+| style="text-align: center;" |00:00
+| style="text-align: center;" |Experiment
+| style="text-align: center;" |
+| style="text-align: center;" |"Seriously... World War III?"
+|-
+| style="text-align: center;" |01:46
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |second verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |03:16
+| style="text-align: center;" |Suspicious eyes
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha tells Okabe about the Steins Gate
+|-
+| style="text-align: center;" |06:52
+| style="text-align: center;" |Tubes
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe travels to the past
+|-
+| style="text-align: center;" |09:59
+| style="text-align: center;" |Timeleap
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu meets with her father
+|-
+| style="text-align: center;" |11:48
+| style="text-align: center;" |Dependency
+| style="text-align: center;" |from 0:17
+| style="text-align: center;" |Okabe fights Kurisu's father
+|-
+| style="text-align: center;" |13:04
+| style="text-align: center;" |Timeleap
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu dies
+|-
+| style="text-align: center;" |15:53
+| style="text-align: center;" |Observer
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe is about to give up saving Kurisu
+|-
+| style="text-align: center;" |16:40
+| style="text-align: center;" |Observer
+| style="text-align: center;" |from 2:14
+| style="text-align: center;" |Mayuri slaps Okabe
+|-
+| style="text-align: center;" |17:50
+| style="text-align: center;" |OPERATION SKULD
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe watches a video from the future
+|-
+| style="text-align: center;" |20:45
+| style="text-align: center;" |Sky-Clad Observer
+| style="text-align: center;" |
+| style="text-align: center;" |"Heave anchor! This ship of fools is about to embark!" [Ending]
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Gate of steiner
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="10" style="text-align: center;" |23b
+| style="text-align: center;" |00:00
+| style="text-align: center;" |Experiment
+| style="text-align: center;" |
+| style="text-align: center;" |"World War III?"
+|-
+| style="text-align: center;" |01:46
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |second verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |03:16
+| style="text-align: center;" |Suspicious eyes
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha tells Okabe about the Steins Gate
+|-
+| style="text-align: center;" |06:52
+| style="text-align: center;" |Tubes
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe travels to the past
+|-
+| style="text-align: center;" |09:59
+| style="text-align: center;" |Timeleap
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu meets with her father
+|-
+| style="text-align: center;" |11:48
+| style="text-align: center;" |Dependency
+| style="text-align: center;" |from 0:17
+| style="text-align: center;" |Okabe fights Kurisu's father
+|-
+| style="text-align: center;" |13:04
+| style="text-align: center;" |Timeleap
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu dies
+|-
+| style="text-align: center;" |14:35
+| style="text-align: center;" |Event
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe is about to give up saving Kurisu
+|-
+| style="text-align: center;" |19:47
+| style="text-align: center;" |Back Home
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe gets a phone call
+|-
+| style="text-align: center;" |21:17
+| style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |
+| style="text-align: center;" |Nothing has changed [Ending]
+|-
+| rowspan="13" style="text-align: center;" |24
+| style="text-align: center;" |00:01
+| style="text-align: center;" |OPERATION SKULD
+| style="text-align: center;" |
+| style="text-align: center;" |A video from the future
+|-
+| style="text-align: center;" |01:42
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |second verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |04:48
+| style="text-align: center;" |Observer
+| style="text-align: center;" |from 2:14
+| style="text-align: center;" |Mayuri remembers Kurisu
+|-
+| style="text-align: center;" |07:03
+| style="text-align: center;" |Last Mission
+| style="text-align: center;" |
+| style="text-align: center;" |The last mission begins
+|-
+| style="text-align: center;" |10:19
+| style="text-align: center;" |Last Mission
+| style="text-align: center;" |reprise
+| style="text-align: center;" |The fake blood dried up
+|-
+| style="text-align: center;" |11:59
+| style="text-align: center;" |Adrenaline
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe provokes Kurisu's father
+|-
+| style="text-align: center;" |12:50
+| style="text-align: center;" |Dependency
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe tases Kurisu
+|-
+| style="text-align: center;" |15:16
+| style="text-align: center;" |Gate of steiner -piano-
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu is finally safe
+|-
+| style="text-align: center;" |17:46
+| style="text-align: center;" |Another Heaven
+| style="text-align: center;" |
+| style="text-align: center;" |Steins Gate world line
+|-
+| style="text-align: center;" |22:09
+| style="text-align: center;" |Farewell
+| style="text-align: center;" |piano only, from 1:02
+| style="text-align: center;" |Okabe and Kurisu meet again
+|-
+| style="text-align: center;" |22:34
+| style="text-align: center;" |Farewell
+| style="text-align: center;" |piano only, from 1:27
+| style="text-align: center;" |"So we meet again, Christina"
+|-
+| style="text-align: center;" |22:58
+| style="text-align: center;" |Farewell
+| style="text-align: center;" |from 1:51
+| style="text-align: center;" |"This is the choice of Steins Gate"
+|-
+| style="text-align: center;" |23:40
+| style="text-align: center;" |Tottery
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="12" style="text-align: center;" |25
+| style="text-align: center;" |01:04
+| style="text-align: center;" |Lab-members
+| style="text-align: center;" |
+| style="text-align: center;" |They're going to America!
+|-
+| style="text-align: center;" |03:01
+| style="text-align: center;" |Cold eyes
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe at customs
+|-
+| style="text-align: center;" |03:52
+| style="text-align: center;" |My alley
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Kurisu meet again
+|-
+| style="text-align: center;" |05:14
+| style="text-align: center;" |No joke!
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe's and Faris's chuunibyou
+|-
+| style="text-align: center;" |07:42
+| style="text-align: center;" |Boy
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe tries to persuade Kurisu to stay with them
+|-
+| style="text-align: center;" |11:00
+| style="text-align: center;" |Experiment
+| style="text-align: center;" |remix
+| style="text-align: center;" |Okabe and Kurisu talk about world lines
+|-
+| style="text-align: center;" |12:41
+| style="text-align: center;" |Operation G-BACK
+| style="text-align: center;" |from 0:18
+| style="text-align: center;" |Faris wins the Rai-Net championship
+|-
+| style="text-align: center;" |16:42
+| style="text-align: center;" |Suzuha
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe has met Yuki Amane
+|-
+| style="text-align: center;" |17:20
+| style="text-align: center;" |Observer
+| style="text-align: center;" |from 1:05
+| style="text-align: center;" |Okabe alone in the desert
+|-
+| style="text-align: center;" |20:07
+| style="text-align: center;" |Christina I
+| style="text-align: center;" |
+| style="text-align: center;" |"I'm saying that on an alternate world-line, I told you I was in love with you"
+|-
+| style="text-align: center;" |21:09
+| style="text-align: center;" |Christina II
+| style="text-align: center;" |from 1:08
+| style="text-align: center;" |"Close your eyes"
+|-
+| style="text-align: center;" |21:52
+| style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|}
+{| class="article-table mw-collapsible mw-collapsed"
+|+ class="nowrap" |Per-track
+|-
+! style="text-align: center;" |Track
+! style="text-align: center;" |Ep
+! style="text-align: center;" |Time
+! style="text-align: center;" |Comment
+! style="text-align: center;" |Scene
+|-
+| rowspan="2" style="text-align: center;" |?
+| style="text-align: center;" |13
+| style="text-align: center;" |01:47
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha knocks the Rounders out
+|-
+| style="text-align: center;" |17
+| style="text-align: center;" |17:45
+| style="text-align: center;" |unreleased version of One of selection -Gate of steiner-
+| style="text-align: center;" |Faris agrees to undo her D-Mail
+|-
+| rowspan="3" style="text-align: center;" |@Channel
+| style="text-align: center;" |05
+| style="text-align: center;" |14:36
+| style="text-align: center;" |
+| style="text-align: center;" |Daru repairs the IBN 5100
+|-
+| style="text-align: center;" |06
+| style="text-align: center;" |19:16
+| style="text-align: center;" |
+| style="text-align: center;" |Moeka inspects the IBN 5100
+|-
+| style="text-align: center;" |08
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="6" style="text-align: center;" |Adrenaline
+| style="text-align: center;" |03
+| style="text-align: center;" |09:25
+| style="text-align: center;" |remix
+| style="text-align: center;" |"This humble kitchen appliance is... a time machine!"
+|-
+| style="text-align: center;" |04
+| style="text-align: center;" |06:16
+| style="text-align: center;" |
+| style="text-align: center;" |They need an IBN 5100
+|-
+| style="text-align: center;" |05
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |12
+| style="text-align: center;" |11:44
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha vs Kurisu
+|-
+| style="text-align: center;" |15
+| style="text-align: center;" |06:54
+| style="text-align: center;" |remix
+| style="text-align: center;" |Chased by cops
+|-
+| style="text-align: center;" |24
+| style="text-align: center;" |11:59
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe provokes Kurisu's father
+|-
+| rowspan="7" style="text-align: center;" |Akihabara
+| style="text-align: center;" |01
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |02
+| style="text-align: center;" |14:10
+| style="text-align: center;" |
+| style="text-align: center;" |Titor never visited the year 2000
+|-
+| style="text-align: center;" |08
+| style="text-align: center;" |14:31
+| style="text-align: center;" |vocals only, from 0:23
+| style="text-align: center;" |Okabe is charmed by a cosplaying Ruka
+|-
+| style="text-align: center;" |08
+| style="text-align: center;" |14:52
+| style="text-align: center;" |vocals only, from 0:23
+| style="text-align: center;" |Kurisu is charmed by a cosplaying Ruka
+|-
+| style="text-align: center;" |10
+| style="text-align: center;" |00:00
+| style="text-align: center;" |remix, from 0:35
+| style="text-align: center;" |The city has changed
+|-
+| style="text-align: center;" |11
+| style="text-align: center;" |05:46
+| style="text-align: center;" |remix
+| style="text-align: center;" |Mayuri is concerned about the time leap
+|-
+| style="text-align: center;" |13
+| style="text-align: center;" |16:10
+| style="text-align: center;" |remix
+| style="text-align: center;" |Okabe meets Mayuri at the temple
+|-
+| rowspan="1" style="text-align: center;" |Another Heaven
+| style="text-align: center;" |24
+| style="text-align: center;" |17:46
+| style="text-align: center;" |
+| style="text-align: center;" |Steins Gate world line
+|-
+| rowspan="7" style="text-align: center;" |August 13 -Explanation-
+| style="text-align: center;" |13
+| style="text-align: center;" |06:37
+| style="text-align: center;" |slowed down
+| style="text-align: center;" |The time leap succeeded
+|-
+| style="text-align: center;" |13
+| style="text-align: center;" |14:36
+| style="text-align: center;" |slowed down
+| style="text-align: center;" |Okabe leaps back in time, again
+|-
+| style="text-align: center;" |14
+| style="text-align: center;" |03:48
+| style="text-align: center;" |remix, slowed down
+| style="text-align: center;" |Okabe kicks Kurisu and Daru out of the lab
+|-
+| style="text-align: center;" |14
+| style="text-align: center;" |08:52
+| style="text-align: center;" |remix, slowed down
+| style="text-align: center;" |Okabe can't take it anymore
+|-
+| style="text-align: center;" |14
+| style="text-align: center;" |14:18
+| style="text-align: center;" |remix, slowed down
+| style="text-align: center;" |Putting the plan into action
+|-
+| style="text-align: center;" |15
+| style="text-align: center;" |10:18
+| style="text-align: center;" |remix
+| style="text-align: center;" |Double time leap
+|-
+| style="text-align: center;" |16
+| style="text-align: center;" |03:02
+| style="text-align: center;" |remix, slowed down
+| style="text-align: center;" |Okabe finds out who ordered the pins
+|-
+| rowspan="6" style="text-align: center;" |Back Home
+| style="text-align: center;" |02
+| style="text-align: center;" |07:34
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Mayuri walk back home
+|-
+| style="text-align: center;" |10
+| style="text-align: center;" |12:19
+| style="text-align: center;" |
+| style="text-align: center;" |Flashback of Okabe's illness
+|-
+| style="text-align: center;" |14
+| style="text-align: center;" |00:12
+| style="text-align: center;" |distorted remix, played together with Butterfly effect
+| style="text-align: center;" |Okabe tried to save Mayuri many times
+|-
+| style="text-align: center;" |16
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |21
+| style="text-align: center;" |07:36
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri thanks Okabe for the day at Comic Market
+|-
+| style="text-align: center;" |23b
+| style="text-align: center;" |19:47
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe gets a phone call
+|-
+| rowspan="5" style="text-align: center;" |Believe Me
+| style="text-align: center;" |11
+| style="text-align: center;" |12:50
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu tells Okabe about her relationship with her father
+|-
+| style="text-align: center;" |13
+| style="text-align: center;" |11:48
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri is sad
+|-
+| style="text-align: center;" |16
+| style="text-align: center;" |17:32
+| style="text-align: center;" |
+| style="text-align: center;" |Mr. Braun tells them about Suzuha's death
+|-
+| style="text-align: center;" |22
+| style="text-align: center;" |08:53
+| style="text-align: center;" |
+| style="text-align: center;" |"...then your heart is already broken"
+|-
+| style="text-align: center;" |22
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="1" style="text-align: center;" |Boy
+| style="text-align: center;" |25
+| style="text-align: center;" |07:42
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe tries to persuade Kurisu to stay with them
+|-
+| rowspan="7" style="text-align: center;" |Butterfly effect
+| style="text-align: center;" |13
+| style="text-align: center;" |02:25
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe leaps back in time
+|-
+| style="text-align: center;" |14
+| style="text-align: center;" |00:00
+| style="text-align: center;" |remix, from 1:12
+| style="text-align: center;" |Okabe tried to save Mayuri many times
+|-
+| style="text-align: center;" |14
+| style="text-align: center;" |01:15
+| style="text-align: center;" |
+| style="text-align: center;" |Moeka shoots Mayuri to death... again
+|-
+| style="text-align: center;" |14
+| style="text-align: center;" |08:35
+| style="text-align: center;" |remix, from 1:12
+| style="text-align: center;" |Okabe sees Mayuri shot to death
+|-
+| style="text-align: center;" |16
+| style="text-align: center;" |21:15
+| style="text-align: center;" |
+| style="text-align: center;" |Yamanote line is open
+|-
+| style="text-align: center;" |17
+| style="text-align: center;" |02:17
+| style="text-align: center;" |remix
+| style="text-align: center;" |Okabe asks Kurisu for help
+|-
+| style="text-align: center;" |19
+| style="text-align: center;" |02:55
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe explains the situation to Kurisu
+|-
+| rowspan="6" style="text-align: center;" |Christina I
+| style="text-align: center;" |14
+| style="text-align: center;" |12:05
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu cheers Okabe up
+|-
+| style="text-align: center;" |17
+| style="text-align: center;" |03:55
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe thanks Kurisu
+|-
+| style="text-align: center;" |20
+| style="text-align: center;" |02:49
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu has a plan for retrieving the IBN 5100
+|-
+| style="text-align: center;" |21
+| style="text-align: center;" |05:19
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu wants to help Okabe save Mayuri
+|-
+| style="text-align: center;" |22
+| style="text-align: center;" |07:02
+| style="text-align: center;" |from 1:09
+| style="text-align: center;" |Kurisu accepts her fate
+|-
+| style="text-align: center;" |25
+| style="text-align: center;" |20:07
+| style="text-align: center;" |
+| style="text-align: center;" |"I'm saying that on an alternate world-line, I told you I was in love with you"
+|-
+| rowspan="5" style="text-align: center;" |Christina II
+| style="text-align: center;" |22
+| style="text-align: center;" |10:51
+| style="text-align: center;" |without strings
+| style="text-align: center;" |Okabe hugs Kurisu
+|-
+| style="text-align: center;" |22
+| style="text-align: center;" |11:59
+| style="text-align: center;" |without glockenspiel, from 0:17
+| style="text-align: center;" |"So long as you remember me... I'll still be right there... with you"
+|-
+| style="text-align: center;" |22
+| style="text-align: center;" |12:51
+| style="text-align: center;" |from 0:17, a bit different in structure
+| style="text-align: center;" |Okabe and Kurisu kiss
+|-
+| style="text-align: center;" |22
+| style="text-align: center;" |15:26
+| style="text-align: center;" |from 1:44
+| style="text-align: center;" |They kiss again
+|-
+| style="text-align: center;" |25
+| style="text-align: center;" |21:09
+| style="text-align: center;" |from 1:08
+| style="text-align: center;" |"Close your eyes"
+|-
+| rowspan="2" style="text-align: center;" |Cold eyes
+| style="text-align: center;" |07
+| style="text-align: center;" |07:08
+| style="text-align: center;" |
+| style="text-align: center;" |Choosing the lottery prize
+|-
+| style="text-align: center;" |25
+| style="text-align: center;" |03:01
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe at customs
+|-
+| rowspan="8" style="text-align: center;" |Confrontation
+| style="text-align: center;" |12
+| style="text-align: center;" |19:48
+| style="text-align: center;" |
+| style="text-align: center;" |The Rounders burst into the lab
+|-
+| style="text-align: center;" |13
+| style="text-align: center;" |00:00
+| style="text-align: center;" |
+| style="text-align: center;" |"The little one isn't needed"
+|-
+| style="text-align: center;" |13
+| style="text-align: center;" |13:08
+| style="text-align: center;" |
+| style="text-align: center;" |Rounders, again
+|-
+| style="text-align: center;" |13
+| style="text-align: center;" |20:36
+| style="text-align: center;" |remix, from 1:10
+| style="text-align: center;" |Nae stumbles into Mayuri
+|-
+| style="text-align: center;" |14
+| style="text-align: center;" |04:52
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe interrogates Moeka about the Rounders
+|-
+| style="text-align: center;" |19
+| style="text-align: center;" |20:15
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe is not able to undo Moeka's D-Mail
+|-
+| style="text-align: center;" |20
+| style="text-align: center;" |00:00
+| style="text-align: center;" |
+| style="text-align: center;" |Moeka decides to help Okabe
+|-
+| style="text-align: center;" |21
+| style="text-align: center;" |09:41
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri dies again
+|-
+| rowspan="6" style="text-align: center;" |Confrontation with fear
+| style="text-align: center;" |01
+| style="text-align: center;" |07:33
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe finds Kurisu's body
+|-
+| style="text-align: center;" |04
+| style="text-align: center;" |13:21
+| style="text-align: center;" |
+| style="text-align: center;" |Faris knows something about the IBN 5100
+|-
+| style="text-align: center;" |09
+| style="text-align: center;" |12:44
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe sees Moeka in the streets
+|-
+| style="text-align: center;" |10
+| style="text-align: center;" |10:42
+| style="text-align: center;" |
+| style="text-align: center;" |"I'm watching you"
+|-
+| style="text-align: center;" |11
+| style="text-align: center;" |21:25
+| style="text-align: center;" |
+| style="text-align: center;" |The lab PC is connected to SERN
+|-
+| style="text-align: center;" |18
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="2" style="text-align: center;" |Crossroads
+| style="text-align: center;" |17
+| style="text-align: center;" |05:56
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Faris being chased
+|-
+| style="text-align: center;" |17
+| style="text-align: center;" |07:32
+| style="text-align: center;" |reprise
+| style="text-align: center;" |Okabe and Faris being chased again
+|-
+| rowspan="5" style="text-align: center;" |D-Mail
+| style="text-align: center;" |02
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |06
+| style="text-align: center;" |14:57
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu explains how D-Mails work
+|-
+| style="text-align: center;" |09
+| style="text-align: center;" |06:32
+| style="text-align: center;" |
+| style="text-align: center;" |Discussion about physical time travel
+|-
+| style="text-align: center;" |11
+| style="text-align: center;" |04:17
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu thinks about the time leap
+|-
+| style="text-align: center;" |14
+| style="text-align: center;" |17:04
+| style="text-align: center;" |remix
+| style="text-align: center;" |Making another plan
+|-
+| rowspan="5" style="text-align: center;" |Dependency
+| style="text-align: center;" |19
+| style="text-align: center;" |08:20
+| style="text-align: center;" |remix, without bass
+| style="text-align: center;" |Moeka is having a mental breakdown
+|-
+| style="text-align: center;" |19
+| style="text-align: center;" |14:13
+| style="text-align: center;" |from 1:03
+| style="text-align: center;" |Moeka can't betray FB
+|-
+| style="text-align: center;" |23
+| style="text-align: center;" |11:48
+| style="text-align: center;" |from 0:17
+| style="text-align: center;" |Okabe fights Kurisu's father
+|-
+| style="text-align: center;" |23b
+| style="text-align: center;" |11:48
+| style="text-align: center;" |from 0:17
+| style="text-align: center;" |Okabe fights Kurisu's father
+|-
+| style="text-align: center;" |24
+| style="text-align: center;" |12:50
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe tases Kurisu
+|-
+| rowspan="11" style="text-align: center;" |Disquiet
+| style="text-align: center;" |02
+| style="text-align: center;" |00:18
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu is alive
+|-
+| style="text-align: center;" |03
+| style="text-align: center;" |21:23
+| style="text-align: center;" |
+| style="text-align: center;" |"Human is Dead, mismatch."
+|-
+| style="text-align: center;" |04
+| style="text-align: center;" |00:00
+| style="text-align: center;" |
+| style="text-align: center;" |"Human is Dead, mismatch."
+|-
+| style="text-align: center;" |07
+| style="text-align: center;" |11:37
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka brings Okabe the lottery ticket
+|-
+| style="text-align: center;" |08
+| style="text-align: center;" |10:37
+| style="text-align: center;" |
+| style="text-align: center;" |Moeka has disappeared
+|-
+| style="text-align: center;" |09
+| style="text-align: center;" |20:12
+| style="text-align: center;" |
+| style="text-align: center;" |Faris is hesitant to send the D-Mail
+|-
+| style="text-align: center;" |10
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |11
+| style="text-align: center;" |10:11
+| style="text-align: center;" |
+| style="text-align: center;" |"Kurisu works for SERN"
+|-
+| style="text-align: center;" |13
+| style="text-align: center;" |18:24
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe tries to escape with Mayuri
+|-
+| style="text-align: center;" |15
+| style="text-align: center;" |08:01
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe apologizes for having stopped Suzuha from leaving
+|-
+| style="text-align: center;" |19
+| style="text-align: center;" |11:19
+| style="text-align: center;" |
+| style="text-align: center;" |Reading Steiner doesn't kick in
+|-
+| rowspan="12" style="text-align: center;" |Event
+| style="text-align: center;" |02
+| style="text-align: center;" |21:31
+| style="text-align: center;" |
+| style="text-align: center;" |The banana is back in the bunch
+|-
+| style="text-align: center;" |04
+| style="text-align: center;" |12:11
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe tells Kurisu about SERN's secret plot
+|-
+| style="text-align: center;" |06
+| style="text-align: center;" |11:17
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe is starting to feel frightened
+|-
+| style="text-align: center;" |06
+| style="text-align: center;" |21:33
+| style="text-align: center;" |
+| style="text-align: center;" |"Are you FB?"
+|-
+| style="text-align: center;" |08
+| style="text-align: center;" |21:03
+| style="text-align: center;" |remix
+| style="text-align: center;" |Is Ruka a girl now?
+|-
+| style="text-align: center;" |09
+| style="text-align: center;" |14:24
+| style="text-align: center;" |
+| style="text-align: center;" |How does Mayuri know Moeka?
+|-
+| style="text-align: center;" |09
+| style="text-align: center;" |20:39
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe meets Faris's father
+|-
+| style="text-align: center;" |11
+| style="text-align: center;" |19:07
+| style="text-align: center;" |
+| style="text-align: center;" |"You know too much"
+|-
+| style="text-align: center;" |11
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |12
+| style="text-align: center;" |18:47
+| style="text-align: center;" |
+| style="text-align: center;" |Time has stopped
+|-
+| style="text-align: center;" |21
+| style="text-align: center;" |00:00
+| style="text-align: center;" |
+| style="text-align: center;" |The hacking is canceled
+|-
+| style="text-align: center;" |23b
+| style="text-align: center;" |14:35
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe is about to give up saving Kurisu
+|-
+| rowspan="14" style="text-align: center;" |Experiment
+| style="text-align: center;" |02
+| style="text-align: center;" |10:45
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe searches for information about the satellite
+|-
+| style="text-align: center;" |03
+| style="text-align: center;" |11:47
+| style="text-align: center;" |
+| style="text-align: center;" |LHC
+|-
+| style="text-align: center;" |06
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |07
+| style="text-align: center;" |15:02
+| style="text-align: center;" |
+| style="text-align: center;" |"Why not try hitting up ol' John Titor for advice?"
+|-
+| style="text-align: center;" |08
+| style="text-align: center;" |00:39
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe tells Daru and Kurisu that the D-Mail was successful
+|-
+| style="text-align: center;" |08
+| style="text-align: center;" |15:44
+| style="text-align: center;" |lead only, from 1:04
+| style="text-align: center;" |Ruka knows the existence of the D-Mails
+|-
+| style="text-align: center;" |08
+| style="text-align: center;" |16:23
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka wants to send a D-Mail
+|-
+| style="text-align: center;" |09
+| style="text-align: center;" |09:27
+| style="text-align: center;" |remix, from 1:04
+| style="text-align: center;" |Kurisu explains the "butterfly effect"
+|-
+| style="text-align: center;" |11
+| style="text-align: center;" |07:40
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Mayuri meet Moeka
+|-
+| style="text-align: center;" |13
+| style="text-align: center;" |08:20
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe is searching for Mayuri
+|-
+| style="text-align: center;" |15
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |23
+| style="text-align: center;" |00:00
+| style="text-align: center;" |
+| style="text-align: center;" |"Seriously... World War III?"
+|-
+| style="text-align: center;" |23b
+| style="text-align: center;" |00:00
+| style="text-align: center;" |
+| style="text-align: center;" |"World War III?"
+|-
+| style="text-align: center;" |25
+| style="text-align: center;" |11:00
+| style="text-align: center;" |remix
+| style="text-align: center;" |Okabe and Kurisu talk about world lines
+|-
+| rowspan="2" style="text-align: center;" |Explanation
+| style="text-align: center;" |11
+| style="text-align: center;" |11:59
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu is hesitant about testing the time leap
+|-
+| style="text-align: center;" |12
+| style="text-align: center;" |04:08
+| style="text-align: center;" |
+| style="text-align: center;" |The Time Leap Machine is ready
+|-
+| rowspan="1" style="text-align: center;" |Fake Verthandi
+| style="text-align: center;" |22
+| style="text-align: center;" |21:45
+| style="text-align: center;" |intro
+| style="text-align: center;" |"This is for the best... isn't it... Kurisu?"
+|-
+| rowspan="13" style="text-align: center;" |Farewell
+| style="text-align: center;" |15
+| style="text-align: center;" |20:39
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha thanks Okabe
+|-
+| style="text-align: center;" |15
+| style="text-align: center;" |22:00
+| style="text-align: center;" |reprise
+| style="text-align: center;" |The street vendor found Suzuha's father?
+|-
+| style="text-align: center;" |16
+| style="text-align: center;" |09:50
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri finds Suzuha's father, Suzuha leaves
+|-
+| style="text-align: center;" |16
+| style="text-align: center;" |14:26
+| style="text-align: center;" |strings only
+| style="text-align: center;" |Suzuha's letter
+|-
+| style="text-align: center;" |16
+| style="text-align: center;" |19:35
+| style="text-align: center;" |piano only
+| style="text-align: center;" |Mr. Braun talks about Suzuha in the new world line
+|-
+| style="text-align: center;" |17
+| style="text-align: center;" |13:23
+| style="text-align: center;" |
+| style="text-align: center;" |Faris's father tells Okabe about her kidnapping
+|-
+| style="text-align: center;" |18
+| style="text-align: center;" |17:06
+| style="text-align: center;" |piano only
+| style="text-align: center;" |They are about to undo Ruka's D-Mail
+|-
+| style="text-align: center;" |20
+| style="text-align: center;" |15:33
+| style="text-align: center;" |
+| style="text-align: center;" |Mr. Braun tells his story
+|-
+| style="text-align: center;" |21
+| style="text-align: center;" |12:58
+| style="text-align: center;" |from 1:27, strings only
+| style="text-align: center;" |Okabe reveals what happens if they undo the first D-Mail
+|-
+| style="text-align: center;" |22
+| style="text-align: center;" |19:50
+| style="text-align: center;" |from 1:27, without piano
+| style="text-align: center;" |The first D-Mail is deleted
+|-
+| style="text-align: center;" |24
+| style="text-align: center;" |22:09
+| style="text-align: center;" |piano only, from 1:02
+| style="text-align: center;" |Okabe and Kurisu meet again
+|-
+| style="text-align: center;" |24
+| style="text-align: center;" |22:34
+| style="text-align: center;" |piano only, from 1:27
+| style="text-align: center;" |"So we meet again, Christina"
+|-
+| style="text-align: center;" |24
+| style="text-align: center;" |22:58
+| style="text-align: center;" |from 1:51
+| style="text-align: center;" |"This is the choice of Steins Gate"
+|-
+| rowspan="2" style="text-align: center;" |Future Gadget Lab
+| style="text-align: center;" |07
+| style="text-align: center;" |00:21
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe unhinges the microwave door
+|-
+| style="text-align: center;" |07
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="5" style="text-align: center;" |Gate of steiner
+| style="text-align: center;" |01
+| style="text-align: center;" |21:43
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe finds out he has sent an email to the past
+|-
+| style="text-align: center;" |13
+| style="text-align: center;" |13:54
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri dies, again
+|-
+| style="text-align: center;" |20
+| style="text-align: center;" |21:31
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe remembers the content of the first D-Mail
+|-
+| style="text-align: center;" |22
+| style="text-align: center;" |22:12
+| style="text-align: center;" |without drums, from 0:26
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="8" style="text-align: center;" |Gate of steiner -piano-
+| style="text-align: center;" |05
+| style="text-align: center;" |21:41
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe plans to create a real time machine
+|-
+| style="text-align: center;" |06
+| style="text-align: center;" |16:24
+| style="text-align: center;" |from 2:06
+| style="text-align: center;" |Okabe dreams of being sucked into a black hole
+|-
+| style="text-align: center;" |07
+| style="text-align: center;" |21:24
+| style="text-align: center;" |from 1:22
+| style="text-align: center;" |"Kyouma, I ask you to be our savior"
+|-
+| style="text-align: center;" |08
+| style="text-align: center;" |00:00
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe goes completely mad
+|-
+| style="text-align: center;" |10
+| style="text-align: center;" |19:27
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha has left
+|-
+| style="text-align: center;" |16
+| style="text-align: center;" |06:05
+| style="text-align: center;" |from 2:32
+| style="text-align: center;" |Okabe swears to Suzuha he will change the future
+|-
+| style="text-align: center;" |17
+| style="text-align: center;" |00:00
+| style="text-align: center;" |
+| style="text-align: center;" |"Yesterday nothing happened..."
+|-
+| style="text-align: center;" |24
+| style="text-align: center;" |15:16
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu is finally safe
+|-
+| rowspan="1" style="text-align: center;" |Hack -short vision-
+| style="text-align: center;" |14
+| style="text-align: center;" |12:52
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu makes a plan
+|-
+| rowspan="26" style="text-align: center;" |Hacking to the Gate
+| style="text-align: center;" |01
+| style="text-align: center;" |10:33
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |02
+| style="text-align: center;" |01:14
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |03
+| style="text-align: center;" |01:37
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |04
+| style="text-align: center;" |01:34
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |05
+| style="text-align: center;" |01:56
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |06
+| style="text-align: center;" |01:05
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |07
+| style="text-align: center;" |01:56
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |08
+| style="text-align: center;" |01:45
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |09
+| style="text-align: center;" |00:59
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |10
+| style="text-align: center;" |00:52
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |11
+| style="text-align: center;" |01:21
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |12
+| style="text-align: center;" |01:47
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |13
+| style="text-align: center;" |02:57
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |14
+| style="text-align: center;" |02:18
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |15
+| style="text-align: center;" |00:16
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |16
+| style="text-align: center;" |01:24
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |17
+| style="text-align: center;" |00:46
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |18
+| style="text-align: center;" |00:33
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |19
+| style="text-align: center;" |00:32
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |20
+| style="text-align: center;" |00:50
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |21
+| style="text-align: center;" |00:18
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |22
+| style="text-align: center;" |00:12
+| style="text-align: center;" |first verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |23
+| style="text-align: center;" |01:46
+| style="text-align: center;" |second verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |23b
+| style="text-align: center;" |01:46
+| style="text-align: center;" |second verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |24
+| style="text-align: center;" |01:42
+| style="text-align: center;" |second verse
+| style="text-align: center;" |[Opening]
+|-
+| style="text-align: center;" |25
+| style="text-align: center;" |21:52
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| rowspan="4" style="text-align: center;" |John Titor
+| style="text-align: center;" |02
+| style="text-align: center;" |11:26
+| style="text-align: center;" |
+| style="text-align: center;" |John Titor introduces himself
+|-
+| style="text-align: center;" |03
+| style="text-align: center;" |16:20
+| style="text-align: center;" |
+| style="text-align: center;" |John Titor explains what the divergence is
+|-
+| style="text-align: center;" |07
+| style="text-align: center;" |19:49
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and John Titor exchange emails
+|-
+| style="text-align: center;" |09
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="7" style="text-align: center;" |Lab-members
+| style="text-align: center;" |04
+| style="text-align: center;" |03:09
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri and Suzuha
+|-
+| style="text-align: center;" |05
+| style="text-align: center;" |10:01
+| style="text-align: center;" |
+| style="text-align: center;" |Daru is repairing the IBN 5100, Kurisu wears the lab coat
+|-
+| style="text-align: center;" |07
+| style="text-align: center;" |07:33
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri shows Moeka around the lab
+|-
+| style="text-align: center;" |08
+| style="text-align: center;" |08:46
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka brings a watermelon
+|-
+| style="text-align: center;" |09
+| style="text-align: center;" |05:12
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri in school uniform
+|-
+| style="text-align: center;" |10
+| style="text-align: center;" |03:38
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri suggests spending a day at the beach
+|-
+| style="text-align: center;" |25
+| style="text-align: center;" |01:04
+| style="text-align: center;" |
+| style="text-align: center;" |They're going to America!
+|-
+| rowspan="3" style="text-align: center;" |Labordinary
+| style="text-align: center;" |12
+| style="text-align: center;" |13:37
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha plays Rai-Net
+|-
+| style="text-align: center;" |15
+| style="text-align: center;" |18:09
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri is handing out flyers
+|-
+| style="text-align: center;" |18
+| style="text-align: center;" |02:14
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe made Ruka cry again
+|-
+| rowspan="2" style="text-align: center;" |Last Mission
+| style="text-align: center;" |24
+| style="text-align: center;" |07:03
+| style="text-align: center;" |
+| style="text-align: center;" |The last mission begins
+|-
+| style="text-align: center;" |24
+| style="text-align: center;" |10:19
+| style="text-align: center;" |reprise
+| style="text-align: center;" |The fake blood dried up
+|-
+| rowspan="3" style="text-align: center;" |Menace
+| style="text-align: center;" |15
+| style="text-align: center;" |01:51
+| style="text-align: center;" |remix
+| style="text-align: center;" |SERN's dystopia flash...forward
+|-
+| style="text-align: center;" |19
+| style="text-align: center;" |10:17
+| style="text-align: center;" |
+| style="text-align: center;" |"Give it back!"
+|-
+| style="text-align: center;" |19
+| style="text-align: center;" |12:34
+| style="text-align: center;" |
+| style="text-align: center;" |Moeka tries to break down the door
+|-
+| rowspan="1" style="text-align: center;" |My alley
+| style="text-align: center;" |25
+| style="text-align: center;" |03:52
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Kurisu meet again
+|-
+| rowspan="2" style="text-align: center;" |Network battle
+| style="text-align: center;" |17
+| style="text-align: center;" |05:23
+| style="text-align: center;" |bgm, from 1:00
+| style="text-align: center;" |Okabe phones Daru and asks him where Faris is
+|-
+| style="text-align: center;" |17
+| style="text-align: center;" |05:46
+| style="text-align: center;" |from 1:23
+| style="text-align: center;" |Okabe goes to the UPX building to meet Faris
+|-
+| rowspan="3" style="text-align: center;" |No joke!
+| style="text-align: center;" |03
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |10
+| style="text-align: center;" |13:55
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu's cooking
+|-
+| style="text-align: center;" |25
+| style="text-align: center;" |05:14
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe's and Faris's chuunibyou
+|-
+| rowspan="1" style="text-align: center;" |Noisy times
+| style="text-align: center;" |18
+| style="text-align: center;" |09:40
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu tries to help Okabe with the date
+|-
+| rowspan="12" style="text-align: center;" |Observer
+| style="text-align: center;" |17
+| style="text-align: center;" |20:43
+| style="text-align: center;" |
+| style="text-align: center;" |Faris's D-Mail is undone
+|-
+| style="text-align: center;" |18
+| style="text-align: center;" |21:31
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka is back to being a boy
+|-
+| style="text-align: center;" |20
+| style="text-align: center;" |07:16
+| style="text-align: center;" |from 2:14
+| style="text-align: center;" |M4 is Moeka's code name
+|-
+| style="text-align: center;" |20
+| style="text-align: center;" |13:18
+| style="text-align: center;" |from 2:14
+| style="text-align: center;" |"Couldn't keep your trap shut--huh, M4?"
+|-
+| style="text-align: center;" |20
+| style="text-align: center;" |18:34
+| style="text-align: center;" |from 2:14
+| style="text-align: center;" |Moeka's last words
+|-
+| style="text-align: center;" |21
+| style="text-align: center;" |03:04
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Mayuri at the Comic Market
+|-
+| style="text-align: center;" |21
+| style="text-align: center;" |04:28
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe wants to save Mayuri without changing world line
+|-
+| style="text-align: center;" |21
+| style="text-align: center;" |11:09
+| style="text-align: center;" |from 0:36
+| style="text-align: center;" |Kurisu wants to talk to Okabe
+|-
+| style="text-align: center;" |23
+| style="text-align: center;" |15:53
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe is about to give up saving Kurisu
+|-
+| style="text-align: center;" |23
+| style="text-align: center;" |16:40
+| style="text-align: center;" |from 2:14
+| style="text-align: center;" |Mayuri slaps Okabe
+|-
+| style="text-align: center;" |24
+| style="text-align: center;" |04:48
+| style="text-align: center;" |from 2:14
+| style="text-align: center;" |Mayuri remembers Kurisu
+|-
+| style="text-align: center;" |25
+| style="text-align: center;" |17:20
+| style="text-align: center;" |from 1:05
+| style="text-align: center;" |Okabe alone in the desert
+|-
+| rowspan="4" style="text-align: center;" |Okarin's suspense
+| style="text-align: center;" |02
+| style="text-align: center;" |13:21
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe can't find any information about John Titor
+|-
+| style="text-align: center;" |14
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |16
+| style="text-align: center;" |00:00
+| style="text-align: center;" |
+| style="text-align: center;" |"He looked just like a barrel"
+|-
+| style="text-align: center;" |20
+| style="text-align: center;" |11:56
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe wants to question Mr. Braun
+|-
+| rowspan="2" style="text-align: center;" |One of selection -Gate of steiner-
+| style="text-align: center;" |18
+| style="text-align: center;" |19:35
+| style="text-align: center;" |version in 'GATE OF STEINER 10th Anniversary'
+| style="text-align: center;" |Ruka confesses her feelings to Okabe
+|-
+| style="text-align: center;" |21
+| style="text-align: center;" |10:20
+| style="text-align: center;" |version in 'STEINS;GATE Future Gadget Compact Disc 8 Soundtrack II "Event Horizon"'
+| style="text-align: center;" |"You can't see any stars from here, right Mayuri?"
+|-
+| rowspan="2" style="text-align: center;" |Operation G-BACK
+| style="text-align: center;" |04
+| style="text-align: center;" |14:59
+| style="text-align: center;" |
+| style="text-align: center;" |Rai-Net Access Battlers match
+|-
+| style="text-align: center;" |25
+| style="text-align: center;" |12:41
+| style="text-align: center;" |from 0:18
+| style="text-align: center;" |Faris wins the Rai-Net championship
+|-
+| rowspan="2" style="text-align: center;" |OPERATION SKULD
+| style="text-align: center;" |23
+| style="text-align: center;" |17:50
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe watches a video from the future
+|-
+| style="text-align: center;" |24
+| style="text-align: center;" |00:01
+| style="text-align: center;" |
+| style="text-align: center;" |A video from the future
+|-
+| rowspan="4" style="text-align: center;" |Promise
+| style="text-align: center;" |13
+| style="text-align: center;" |05:26
+| style="text-align: center;" |
+| style="text-align: center;" |Flashback of Mayuri and Okabe in the graveyard
+|-
+| style="text-align: center;" |20
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |21
+| style="text-align: center;" |18:14
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri recalls her first day at the lab
+|-
+| style="text-align: center;" |22
+| style="text-align: center;" |17:19
+| style="text-align: center;" |
+| style="text-align: center;" |"Sayonara"
+|-
+| rowspan="6" style="text-align: center;" |Promise -piano-
+| style="text-align: center;" |04
+| style="text-align: center;" |04:54
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri's "Shaking Hands with Stardust"
+|-
+| style="text-align: center;" |10
+| style="text-align: center;" |16:52
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu feels at home in the lab
+|-
+| style="text-align: center;" |12
+| style="text-align: center;" |17:22
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Mayuri talk on the roof
+|-
+| style="text-align: center;" |18
+| style="text-align: center;" |15:27
+| style="text-align: center;" |
+| style="text-align: center;" |Flashback of Okabe and Ruka's first meeting
+|-
+| style="text-align: center;" |20
+| style="text-align: center;" |05:14
+| style="text-align: center;" |
+| style="text-align: center;" |Mayuri feels distant from Okabe
+|-
+| style="text-align: center;" |21
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="2" style="text-align: center;" |Quiet air
+| style="text-align: center;" |10
+| style="text-align: center;" |08:35
+| style="text-align: center;" |from 1:04
+| style="text-align: center;" |Okabe wants to help Suzuha find her father
+|-
+| style="text-align: center;" |18
+| style="text-align: center;" |04:41
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka crying
+|-
+| rowspan="1" style="text-align: center;" |Run away!
+| style="text-align: center;" |11
+| style="text-align: center;" |00:25
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha tries to distract Mr. Braun
+|-
+| rowspan="4" style="text-align: center;" |Science Of The Strings
+| style="text-align: center;" |04
+| style="text-align: center;" |21:30
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Kurisu carry the IBN 5100
+|-
+| style="text-align: center;" |04
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |06
+| style="text-align: center;" |08:16
+| style="text-align: center;" |
+| style="text-align: center;" |D-Mail/banana test
+|-
+| style="text-align: center;" |08
+| style="text-align: center;" |18:11
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe suggests sending the D-Mail to a pager
+|-
+| rowspan="1" style="text-align: center;" |Select of sorrow
+| style="text-align: center;" |21
+| style="text-align: center;" |08:55
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe tries to sacrifice himself to save Mayuri
+|-
+| rowspan="2" style="text-align: center;" |Self affirmation
+| style="text-align: center;" |14
+| style="text-align: center;" |21:52
+| style="text-align: center;" |from 2:36
+| style="text-align: center;" |Suzuha is John Titor
+|-
+| style="text-align: center;" |15
+| style="text-align: center;" |00:00
+| style="text-align: center;" |from 2:36
+| style="text-align: center;" |Suzuha is John Titor
+|-
+| rowspan="7" style="text-align: center;" |Silence eyes
+| style="text-align: center;" |01
+| style="text-align: center;" |14:46
+| style="text-align: center;" |
+| style="text-align: center;" |News about the satellite
+|-
+| style="text-align: center;" |05
+| style="text-align: center;" |18:35
+| style="text-align: center;" |
+| style="text-align: center;" |Jellyman's report
+|-
+| style="text-align: center;" |07
+| style="text-align: center;" |12:30
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe realizes he's the only one to remember the previous world lines
+|-
+| style="text-align: center;" |09
+| style="text-align: center;" |08:20
+| style="text-align: center;" |
+| style="text-align: center;" |The IBN 5100 has disappeared
+|-
+| style="text-align: center;" |13
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |19
+| style="text-align: center;" |15:52
+| style="text-align: center;" |
+| style="text-align: center;" |FB recruited Moeka
+|-
+| style="text-align: center;" |19
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="1" style="text-align: center;" |Sky-Clad Observer
+| style="text-align: center;" |23
+| style="text-align: center;" |20:45
+| style="text-align: center;" |
+| style="text-align: center;" |"Heave anchor! This ship of fools is about to embark!" [Ending]
+|-
+| rowspan="2" style="text-align: center;" |Suspicious eyes
+| style="text-align: center;" |23
+| style="text-align: center;" |03:16
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha tells Okabe about the Steins Gate
+|-
+| style="text-align: center;" |23b
+| style="text-align: center;" |03:16
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha tells Okabe about the Steins Gate
+|-
+| rowspan="6" style="text-align: center;" |Suzuha
+| style="text-align: center;" |05
+| style="text-align: center;" |07:29
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha apologizes for her behavior towards Kurisu
+|-
+| style="text-align: center;" |10
+| style="text-align: center;" |06:57
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha is searching for her father
+|-
+| style="text-align: center;" |12
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |15
+| style="text-align: center;" |13:04
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha talks to Daru about her father
+|-
+| style="text-align: center;" |16
+| style="text-align: center;" |05:03
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha thanks Okabe again
+|-
+| style="text-align: center;" |25
+| style="text-align: center;" |16:42
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe has met Yuki Amane
+|-
+| rowspan="2" style="text-align: center;" |Teenager's tango
+| style="text-align: center;" |05
+| style="text-align: center;" |12:52
+| style="text-align: center;" |
+| style="text-align: center;" |"My name is Hououin!"
+|-
+| style="text-align: center;" |08
+| style="text-align: center;" |13:32
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka's cosplay
+|-
+| rowspan="6" style="text-align: center;" |Tender affection
+| style="text-align: center;" |07
+| style="text-align: center;" |19:09
+| style="text-align: center;" |from 1:22
+| style="text-align: center;" |Mayuri phones Okabe
+|-
+| style="text-align: center;" |11
+| style="text-align: center;" |15:26
+| style="text-align: center;" |from 0:15
+| style="text-align: center;" |Okabe wants to help Kurisu reconcile with her father
+|-
+| style="text-align: center;" |12
+| style="text-align: center;" |09:06
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Kurisu awkward scene
+|-
+| style="text-align: center;" |16
+| style="text-align: center;" |07:29
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha is about to leave
+|-
+| style="text-align: center;" |17
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| style="text-align: center;" |22
+| style="text-align: center;" |03:46
+| style="text-align: center;" |from 0:15
+| style="text-align: center;" |Kurisu mends Okabe's lab coat
+|-
+| rowspan="22" style="text-align: center;" |The Twelve Laws that Govern Time
+| style="text-align: center;" |01
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |02
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |03
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |04
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |05
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |06
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |07
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |08
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |09
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |The city has changed [Ending]
+|-
+| style="text-align: center;" |10
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |11
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |12
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |13
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |14
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |15
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |16
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |17
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |18
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |19
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |20
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |21
+| style="text-align: center;" |22:10
+| style="text-align: center;" |
+| style="text-align: center;" |[Ending]
+|-
+| style="text-align: center;" |23b
+| style="text-align: center;" |21:17
+| style="text-align: center;" |
+| style="text-align: center;" |Nothing has changed [Ending]
+|-
+| rowspan="8" style="text-align: center;" |Timeleap
+| style="text-align: center;" |19
+| style="text-align: center;" |06:03
+| style="text-align: center;" |
+| style="text-align: center;" |Moeka killed herself
+|-
+| style="text-align: center;" |20
+| style="text-align: center;" |08:04
+| style="text-align: center;" |
+| style="text-align: center;" |Someone retrieves the IBN 5100 from the coin locker
+|-
+| style="text-align: center;" |21
+| style="text-align: center;" |21:47
+| style="text-align: center;" |
+| style="text-align: center;" |Does Kurisu remember something?
+|-
+| style="text-align: center;" |22
+| style="text-align: center;" |05:18
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu has a glimpse of Reading Steiner
+|-
+| style="text-align: center;" |23
+| style="text-align: center;" |09:59
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu meets with her father
+|-
+| style="text-align: center;" |23
+| style="text-align: center;" |13:04
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu dies
+|-
+| style="text-align: center;" |23b
+| style="text-align: center;" |09:59
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu meets with her father
+|-
+| style="text-align: center;" |23b
+| style="text-align: center;" |13:04
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu dies
+|-
+| rowspan="7" style="text-align: center;" |Tottery
+| style="text-align: center;" |03
+| style="text-align: center;" |03:35
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu tastes the gel-nana
+|-
+| style="text-align: center;" |06
+| style="text-align: center;" |06:05
+| style="text-align: center;" |
+| style="text-align: center;" |They name the D-Mails
+|-
+| style="text-align: center;" |07
+| style="text-align: center;" |05:11
+| style="text-align: center;" |
+| style="text-align: center;" |They discuss about the lottery D-Mail
+|-
+| style="text-align: center;" |09
+| style="text-align: center;" |18:50
+| style="text-align: center;" |
+| style="text-align: center;" |Kurisu hangs up on Okabe
+|-
+| style="text-align: center;" |15
+| style="text-align: center;" |16:07
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe and Suzuha search for information about the pin badge
+|-
+| style="text-align: center;" |18
+| style="text-align: center;" |07:45
+| style="text-align: center;" |
+| style="text-align: center;" |Tsundere Kurisu
+|-
+| style="text-align: center;" |24
+| style="text-align: center;" |23:40
+| style="text-align: center;" |
+| style="text-align: center;" |[Preview]
+|-
+| rowspan="6" style="text-align: center;" |Tubes
+| style="text-align: center;" |14
+| style="text-align: center;" |18:55
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha's explanation about world lines
+|-
+| style="text-align: center;" |15
+| style="text-align: center;" |03:54
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha tells Okabe and Kurisu their future
+|-
+| style="text-align: center;" |15
+| style="text-align: center;" |15:00
+| style="text-align: center;" |
+| style="text-align: center;" |Suzuha gives Okabe the divergence meter
+|-
+| style="text-align: center;" |20
+| style="text-align: center;" |20:08
+| style="text-align: center;" |
+| style="text-align: center;" |Daru hacks SERN's database to delete the first D-Mail
+|-
+| style="text-align: center;" |23
+| style="text-align: center;" |06:52
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe travels to the past
+|-
+| style="text-align: center;" |23b
+| style="text-align: center;" |06:52
+| style="text-align: center;" |
+| style="text-align: center;" |Okabe travels to the past
+|-
+| rowspan="1" style="text-align: center;" |Walking on sleeping
+| style="text-align: center;" |10
+| style="text-align: center;" |04:50
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka is a girl
+|-
+| rowspan="1" style="text-align: center;" |Warmth of days -Promise-
+| style="text-align: center;" |18
+| style="text-align: center;" |05:24
+| style="text-align: center;" |
+| style="text-align: center;" |Ruka wants to go on a date with Okabe
+|-
+| rowspan="1" style="text-align: center;" |ワタシ☆LOVEな☆オトメ!
+| style="text-align: center;" |04
+| style="text-align: center;" |13:36
+| style="text-align: center;" |from 0:10
+| style="text-align: center;" |Faris Cup
+|}
